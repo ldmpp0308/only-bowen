@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-12T11:09:26.943Z",
+  "updatedAt": "2026-05-14T11:58:55.533Z",
   "templates": [
     {
       "id": "comment-0001",
@@ -58,7 +58,7 @@
     },
     {
       "id": "comment-0007",
-      "category": "夸跳舞",
+      "category": "发疯抽象",
       "tags": [],
       "text": "博丝们我们来已读乱回吧",
       "enabled": true,
@@ -627,8 +627,8 @@
       "id": "comment-0070",
       "category": "夸跳舞",
       "tags": [],
-      "text": "男神我化了妆来见你\n👁 👁\n🔴 👃 🔴\n👄",
-      "enabled": false,
+      "text": "男神我化了妆来见你\n   👁 👁\n🔴 👃 🔴\n      👄",
+      "enabled": true,
       "purpose": "comment",
       "weight": 1
     },
@@ -1221,7 +1221,7 @@
       "id": "comment-0136",
       "category": "夸跳舞",
       "tags": [],
-      "text": "到时候别人和谁跨年，我们还在看杨博文新音直拍，别人过元旦了，我们还在杨博文公开三周年快乐，别人过新年了，我们在杨博文新的一年天天开心，明年六月毕业季，我们还在杨博文生日月",
+      "text": "到时候别人和谁跨年，我们还在看杨博文舞蹈直拍，别人过元旦了，我们还在杨博文公开三周年快乐，别人过新年了，我们在杨博文新的一年天天开心，明年六月毕业季，我们还在杨博文生日月",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -4686,8 +4686,8 @@
       "id": "comment-0521",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "岁岁 一起走过的每一天 都会组成我们的年年🫶🏻🫶🏻——文字已过期",
-      "enabled": false,
+      "text": "我跪下来求自己别看了，没想到跪下也能看[抱抱你][抱抱你]",
+      "enabled": true,
       "purpose": "comment",
       "weight": 3
     },
@@ -4695,7 +4695,7 @@
       "id": "comment-0522",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "我跪下来求自己别看了，没想到跪下也能看[抱抱你][抱抱你]",
+      "text": "不是他有啥缺点啊，我下辈子能生他不？[调皮][调皮][调皮]",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -4704,7 +4704,7 @@
       "id": "comment-0523",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "不是他有啥缺点啊，我能下辈子生他不？[调皮][调皮][调皮]",
+      "text": "老公的核心 我的一辈子[尴尬流汗][尴尬流汗][尴尬流汗][尴尬流汗]",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -4713,7 +4713,7 @@
       "id": "comment-0524",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "老公的核心 我的一辈子[尴尬流汗][尴尬流汗][尴尬流汗][尴尬流汗]",
+      "text": "新年启封时，你只管从容地，将一身星火，斟给早春的黎明。愿小羊拥有更多的舞台，被更多的人看见[爱心手]",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -4722,7 +4722,7 @@
       "id": "comment-0525",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "新年启封时，你只管从容地，将一身星火，斟给早春的黎明。愿小羊拥有更多的舞台，被更多的人看见[爱心手]",
+      "text": "人怎么会是软软小羊呢？杨博文分明是上帝掉在大地上的棉花糖。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -4731,7 +4731,7 @@
       "id": "comment-0526",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "人怎么会是软软小羊呢？杨博文分明是上帝掉在大地上的棉花糖。",
+      "text": "小羊宝宝，你要吃好喝好，长高高是妈咪2026年最大的愿望。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -4740,7 +4740,7 @@
       "id": "comment-0527",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "小羊宝宝，你要吃好喝好，长高高是妈咪2026年最大的愿望。",
+      "text": "谁懂啊，看到杨博文这张脸，我那尘封已久的母爱瞬间决堤。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -4749,7 +4749,7 @@
       "id": "comment-0528",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "谁懂啊，看到杨博文这张脸，我那尘封已久的母爱瞬间决堤。",
+      "text": "时代峰峻你真的拐卖我的孩子，快把这个绝世萌宝还给妈咪！",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -4758,7 +4758,7 @@
       "id": "comment-0529",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "时代峰峻你真的拐卖我的孩子，快把这个绝世萌宝还给妈咪！",
+      "text": "看到你亮晶晶的眼睛，我觉得这个世界依然值得我去爱。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -4767,7 +4767,7 @@
       "id": "comment-0530",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "看到你亮晶晶的眼睛，我觉得这个世界依然值得我去爱。",
+      "text": "宝宝，你只要负责在舞台上闪闪发光，剩下的风雨妈咪替你挡。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -4776,7 +4776,7 @@
       "id": "comment-0531",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "宝宝，你只要负责在舞台上闪闪发光，剩下的风雨妈咪替你挡。",
+      "text": "杨博文效应：看完瞳孔放大、嘴角上扬，感觉医保卡都能自动续费。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -4785,7 +4785,7 @@
       "id": "comment-0532",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "杨博文效应：看完瞳孔放大、嘴角上扬，感觉医保卡都能自动续费。",
+      "text": "这种奶呼呼的气息，隔着屏幕都能闻到小羊宝宝的奶香味。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -4794,7 +4794,7 @@
       "id": "comment-0533",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "这种奶呼呼的气息，隔着屏幕都能闻到小羊宝宝的奶香味。",
+      "text": "小羊，你要永远做那个快乐、自由、偶尔可以调皮的小孩。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -4803,7 +4803,7 @@
       "id": "comment-0534",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "小羊，你要永远做那个快乐、自由、偶尔可以调皮的小孩。",
+      "text": "看着你长大，是妈咪这辈子做过最有成就感的事。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -4812,7 +4812,7 @@
       "id": "comment-0535",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "看着你长大，是妈咪这辈子做过最有成就感的事。",
+      "text": "宝贝，你的笑容就是妈咪每天打工的唯一动力。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -4821,7 +4821,7 @@
       "id": "comment-0536",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "宝贝，你的笑容就是妈咪每天打工的唯一动力。",
+      "text": "这种天真烂漫的少年气，希望时光能对你温柔以待。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -4830,7 +4830,7 @@
       "id": "comment-0537",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "这种天真烂漫的少年气，希望时光能对你温柔以待。",
+      "text": "谁敢欺负我们小羊？妈咪第一个冲上去扫平一切！",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -4839,7 +4839,7 @@
       "id": "comment-0538",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "谁敢欺负我们小羊？妈咪第一个冲上去扫平一切！",
+      "text": "看到你受委屈，妈咪的心都要碎成二维码了。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -4848,7 +4848,7 @@
       "id": "comment-0539",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "看到你受委屈，妈咪的心都要碎成二维码了。",
+      "text": "杨博文，你是妈咪心里永远的第一名，不需要任何证明。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -4857,7 +4857,7 @@
       "id": "comment-0540",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "杨博文，你是妈咪心里永远的第一名，不需要任何证明。",
+      "text": "这种软糯的北京小腔调，真是听得妈咪心软得一塌糊涂。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -4866,7 +4866,7 @@
       "id": "comment-0541",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "这种软糯的北京小腔调，真是听得妈咪心软得一塌糊涂。",
+      "text": "宝贝，累了就歇一歇，妈咪的怀抱永远是你最坚实的港湾。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -4875,7 +4875,7 @@
       "id": "comment-0542",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "宝贝，累了就歇一歇，妈咪的怀抱永远是你最坚实的港湾。",
+      "text": "你的每一次进步，妈咪都记在心里，为你感到无比骄傲。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -4884,7 +4884,7 @@
       "id": "comment-0543",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "你的每一次进步，妈咪都记在心里，为你感到无比骄傲。",
+      "text": "小羊宝宝，你要一直这么灿烂地笑下去，世界都为你放晴。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -4893,7 +4893,7 @@
       "id": "comment-0544",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "小羊宝宝，你要一直这么灿烂地笑下去，世界都为你放晴。",
+      "text": "感谢上天把这么优秀的杨博文送到妈咪面前，你是最好的礼物。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -4902,7 +4902,7 @@
       "id": "comment-0545",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "感谢上天把这么优秀的杨博文送到妈咪面前，你是最好的礼物。",
+      "text": "杨博文就是我的精神氮泵，看完你的舞台瞬间元气满满。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -4911,7 +4911,7 @@
       "id": "comment-0546",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "杨博文就是我的精神氮泵，看完你的舞台瞬间元气满满。",
+      "text": "这种治愈系的笑容，简直是给灵魂做了一场SPA。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -4920,7 +4920,7 @@
       "id": "comment-0547",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "这种治愈系的笑容，简直是给灵魂做了一场SPA。",
+      "text": "所有的烦恼在看到杨博文的一瞬间，全部消失不见。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -4929,7 +4929,7 @@
       "id": "comment-0548",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "所有的烦恼在看到杨博文的一瞬间，全部消失不见。",
+      "text": "谢谢你，小羊，让我的2026年变得这么有意义。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -4938,7 +4938,7 @@
       "id": "comment-0549",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "谢谢你，小羊，让我的2026年变得这么有意义。",
+      "text": "你是我的多巴胺，我的内啡肽，我生命中的小确幸。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -4947,7 +4947,7 @@
       "id": "comment-0550",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "你是我的多巴胺，我的内啡肽，我生命中的小确幸。",
+      "text": "看到你和队友打闹的样子，我觉得这就是青春最美的样子。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -4956,7 +4956,7 @@
       "id": "comment-0551",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "看到你和队友打闹的样子，我觉得这就是青春最美的样子。",
+      "text": "杨博文的存在，让我相信这个世界上真的有奇迹。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -4965,7 +4965,7 @@
       "id": "comment-0552",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "杨博文的存在，让我相信这个世界上真的有奇迹。",
+      "text": "你的歌声清澈如泉水，洗涤了我所有的疲惫。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -4974,7 +4974,7 @@
       "id": "comment-0553",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "你的歌声清澈如泉水，洗涤了我所有的疲惫。",
+      "text": "这种满满的正能量，不愧是我想追随一辈子的偶像。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -4983,7 +4983,7 @@
       "id": "comment-0554",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "这种满满的正能量，不愧是我想追随一辈子的偶像。",
+      "text": "小羊宝宝，你就是人间最灿烂的那道阳光。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -4992,7 +4992,7 @@
       "id": "comment-0555",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "小羊宝宝，你就是人间最灿烂的那道阳光。",
+      "text": "只要看到杨博文在努力，我就觉得我也能坚持下去。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -5001,7 +5001,7 @@
       "id": "comment-0556",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "只要看到杨博文在努力，我就觉得我也能坚持下去。",
+      "text": "这种积极向上的态度，真的非常有感染力。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -5010,7 +5010,7 @@
       "id": "comment-0557",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "这种积极向上的态度，真的非常有感染力。",
+      "text": "你的每一个舞台都在传递快乐，谢谢你，博文。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -5019,7 +5019,7 @@
       "id": "comment-0558",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "你的每一个舞台都在传递快乐，谢谢你，博文。",
+      "text": "看到你开心的样子，我觉得整个世界都变得温柔了。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -5028,7 +5028,7 @@
       "id": "comment-0559",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "看到你开心的样子，我觉得整个世界都变得温柔了。",
+      "text": "杨博文，你就是我的避风港，我的心灵寄托。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -5037,7 +5037,7 @@
       "id": "comment-0560",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "杨博文，你就是我的避风港，我的心灵寄托。",
+      "text": "这种纯粹的快乐，只有在你看你视频时才能感受到。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -5046,7 +5046,7 @@
       "id": "comment-0561",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "这种纯粹的快乐，只有在你看你视频时才能感受到。",
+      "text": "宝贝，你的善良和真诚，是我们最珍视的财富。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -5055,7 +5055,7 @@
       "id": "comment-0562",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "宝贝，你的善良和真诚，是我们最珍视的财富。",
+      "text": "谢谢你这么努力，让我们看到了这么完美的杨博文。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -5064,7 +5064,7 @@
       "id": "comment-0563",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "谢谢你这么努力，让我们看到了这么完美的杨博文。",
+      "text": "这种向阳而生的力量，博文你真的太棒了。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -5073,7 +5073,7 @@
       "id": "comment-0564",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "这种向阳而生的力量，博文你真的太棒了。",
+      "text": "小羊，愿你的一生都被温柔包围，被爱意填满。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -5082,7 +5082,7 @@
       "id": "comment-0565",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "小羊，愿你的一生都被温柔包围，被爱意填满。",
+      "text": "看到你为了练舞满身伤痕，妈咪的心真的疼得在滴血。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -5091,7 +5091,7 @@
       "id": "comment-0566",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "看到你为了练舞满身伤痕，妈咪的心真的疼得在滴血。",
+      "text": "杨博文，你不要太懂事了，偶尔也可以依赖一下粉丝。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -5100,7 +5100,7 @@
       "id": "comment-0567",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "杨博文，你不要太懂事了，偶尔也可以依赖一下粉丝。",
+      "text": "这种破碎感十足的表情，真是看得我想把全世界都给你。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -5109,7 +5109,7 @@
       "id": "comment-0568",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "这种破碎感十足的表情，真是看得我想把全世界都给你。",
+      "text": "哪怕世界对你偶尔残酷，我们也会是你永远的退路。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -5118,7 +5118,7 @@
       "id": "comment-0569",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "哪怕世界对你偶尔残酷，我们也会是你永远的退路。",
+      "text": "看到你在角落里默默流泪，我想穿越时空去抱抱你。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -5127,7 +5127,7 @@
       "id": "comment-0570",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "看到你在角落里默默流泪，我想穿越时空去抱抱你。",
+      "text": "宝贝，不要给自己太大的压力，你已经做得很好了。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -5136,7 +5136,7 @@
       "id": "comment-0571",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "宝贝，不要给自己太大的压力，你已经做得很好了。",
+      "text": "这种即便疲惫也要坚持微笑的杨博文，真的让人心疼死。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -5145,7 +5145,7 @@
       "id": "comment-0572",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "这种即便疲惫也要坚持微笑的杨博文，真的让人心疼死。",
+      "text": "看到你为了舞台复出了那么多，妈咪只希望你能平安健康。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -5154,7 +5154,7 @@
       "id": "comment-0573",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "看到你为了舞台复出了那么多，妈咪只希望你能平安健康。",
+      "text": "杨博文，你不需要完美，我们爱的就是最真实的你。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -5163,7 +5163,7 @@
       "id": "comment-0574",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "杨博文，你不需要完美，我们爱的就是最真实的你。",
+      "text": "这种隐忍的性格，真是让粉丝恨不得替你受过。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -5172,7 +5172,7 @@
       "id": "comment-0575",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "这种隐忍的性格，真是让粉丝恨不得替你受过。",
+      "text": "看到你消瘦的身影，妈咪只想给你做一桌好吃的补补。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -5181,7 +5181,7 @@
       "id": "comment-0576",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "看到你消瘦的身影，妈咪只想给你做一桌好吃的补补。",
+      "text": "宝贝，你值得这世间所有的美好，不要妄自菲薄。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -5190,7 +5190,7 @@
       "id": "comment-0577",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "宝贝，你值得这世间所有的美好，不要妄自菲薄。",
+      "text": "这种即便身处低谷也依然仰望星空的精神，博文你太倔强了。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -5199,7 +5199,7 @@
       "id": "comment-0578",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "这种即便身处低谷也依然仰望星空的精神，博文你太倔强了。",
+      "text": "看到你因为训练而缺眠，真想让你立刻去睡觉。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -5208,7 +5208,7 @@
       "id": "comment-0579",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "看到你因为训练而缺眠，真想让你立刻去睡觉。",
+      "text": "杨博文，你的每一分努力我们都看在眼里，疼在心里。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -5217,7 +5217,7 @@
       "id": "comment-0580",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "杨博文，你的每一分努力我们都看在眼里，疼在心里。",
+      "text": "这种让人心碎的清冷感，真的是我的软肋。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -5226,7 +5226,7 @@
       "id": "comment-0581",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "这种让人心碎的清冷感，真的是我的软肋。",
+      "text": "宝贝，不管别人怎么说，你永远是我们手心里的宝。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -5235,7 +5235,7 @@
       "id": "comment-0582",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "宝贝，不管别人怎么说，你永远是我们手心里的宝。",
+      "text": "看到你那双充满故事的眼睛，我就知道你承受了太多。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -5244,7 +5244,7 @@
       "id": "comment-0583",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "看到你那双充满故事的眼睛，我就知道你承受了太多。",
+      "text": "杨博文，请一定要好好爱自己，因为有很多人在爱你。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -5253,7 +5253,7 @@
       "id": "comment-0584",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "杨博文，请一定要好好爱自己，因为有很多人在爱你。",
+      "text": "这种即便辛苦也要咬牙坚持的毅力，博文，妈咪陪你到底。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -5262,7 +5262,7 @@
       "id": "comment-0585",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "这种即便辛苦也要咬牙坚持的毅力，博文，妈咪陪你到底。",
+      "text": "帅的时候是老公，萌的时候是女儿，杨博文你是多变的神。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -5271,7 +5271,7 @@
       "id": "comment-0586",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "帅的时候是老公，萌的时候是女儿，杨博文你是多变的神。",
+      "text": "这种极致的优秀，让我觉得喜欢杨博文是理所当然的事。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -5280,7 +5280,7 @@
       "id": "comment-0587",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "这种极致的优秀，让我觉得喜欢杨博文是理所当然的事。",
+      "text": "杨博文杨博文杨博文，你是我的命，我的心，我的肝。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -5289,7 +5289,7 @@
       "id": "comment-0588",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "杨博文杨博文杨博文，你是我的命，我的心，我的肝。",
+      "text": "谁说妈粉和嬷粉不能并存？我为了杨博文可以随时切换！",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -5298,7 +5298,7 @@
       "id": "comment-0589",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "谁说妈粉和嬷粉不能并存？我为了杨博文可以随时切换！",
+      "text": "这种级别的颜值和实力，杨博文你不红真的天理难容。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -5307,7 +5307,7 @@
       "id": "comment-0590",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "这种级别的颜值和实力，杨博文你不红真的天理难容。",
+      "text": "看着你从北京小羊变成全能偶像，这种养成感太爽了。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -5316,7 +5316,7 @@
       "id": "comment-0591",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "看着你从北京小羊变成全能偶像，这种养成感太爽了。",
+      "text": "杨博文，你就是我2026年唯一的星标关注。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -5325,7 +5325,7 @@
       "id": "comment-0592",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "杨博文，你就是我2026年唯一的星标关注。",
+      "text": "这种全方位无死角的帅气，真的是上天对人类的馈赠。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -5334,7 +5334,7 @@
       "id": "comment-0593",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "这种全方位无死角的帅气，真的是上天对人类的馈赠。",
+      "text": "宝贝，请继续在你的舞台上发光发热，我们会一直追随。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -5343,7 +5343,7 @@
       "id": "comment-0594",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "宝贝，请继续在你的舞台上发光发热，我们会一直追随。",
+      "text": "杨博文，你是我的骄傲，是我生命中最亮的星。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -5352,7 +5352,7 @@
       "id": "comment-0595",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "杨博文，你是我的骄傲，是我生命中最亮的星。",
+      "text": "这种让人无法移开视线的魅力，博文你赢很大。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -5361,7 +5361,7 @@
       "id": "comment-0596",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "这种让人无法移开视线的魅力，博文你赢很大。",
+      "text": "看着你一点点褪去稚气变得成熟，这种欣慰感谁懂？",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -5370,7 +5370,7 @@
       "id": "comment-0597",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "看着你一点点褪去稚气变得成熟，这种欣慰感谁懂？",
+      "text": "杨博文，你是我的信仰，我的英雄，我的小羊。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -5379,7 +5379,7 @@
       "id": "comment-0598",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "杨博文，你是我的信仰，我的英雄，我的小羊。",
+      "text": "这种极致的视听享受，只有在看杨博文时才有。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -5388,7 +5388,7 @@
       "id": "comment-0599",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "这种极致的视听享受，只有在看杨博文时才有。",
+      "text": "宝贝，大胆地往前走吧，身后有千千万万个我们在支持。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -5397,7 +5397,7 @@
       "id": "comment-0600",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "宝贝，大胆地往前走吧，身后有千千万万个我们在支持。",
+      "text": "杨博文，你让“热爱”这个词变得具体而有温度。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -5406,7 +5406,7 @@
       "id": "comment-0601",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "杨博文，你让“热爱”这个词变得具体而有温度。",
+      "text": "这种让人心动的频率，只有杨博文能弹奏出来。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -5415,7 +5415,7 @@
       "id": "comment-0602",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "这种让人心动的频率，只有杨博文能弹奏出来。",
+      "text": "谢谢你出现在我的生命里，让我的世界变得五彩斑斓。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -5424,7 +5424,7 @@
       "id": "comment-0603",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "谢谢你出现在我的生命里，让我的世界变得五彩斑斓。",
+      "text": "杨博文，你是我的唯一，我的终点，我的所有。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -5433,7 +5433,7 @@
       "id": "comment-0604",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "杨博文，你是我的唯一，我的终点，我的所有。",
+      "text": "彻底疯狂！杨博文你是最萌最帅最全能的宝藏！",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -5442,7 +5442,7 @@
       "id": "comment-0605",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "彻底疯狂！杨博文你是最萌最帅最全能的宝藏！",
+      "text": "你怎么知道杨博文上央视网啦🤪你怎么知道杨博文单人音频上hi6啦🤪你怎么知道大湾区伴舞用的杨博文即兴动作片🤪你怎么知道杨博文拍过奥运会主题曲mv🤪太多了夸不完了哈哈哈我歇会",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -5451,7 +5451,7 @@
       "id": "comment-0606",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "你怎么知道杨博文上央视网啦🤪你怎么知道杨博文单人音频上hi6啦🤪你怎么知道大湾区伴舞用的杨博文即兴动作片🤪你怎么知道杨博文拍过奥运会主题曲mv🤪太多了夸不完了哈哈哈我歇会",
+      "text": "不知道啊，我没有充高会呀那是他手机发现我下载了那个fan club之后，它自动给我扣款的，我也没有买周边啊，因为关注了杨博文，周边一出，他也给我自动扣款了，杨博文我的高会为什么只有你一个关注，自动关注的吧",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -5460,7 +5460,7 @@
       "id": "comment-0607",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "不知道啊，我没有充高会呀那是他手机发现我下载了那个fan club之后，它自动给我扣款的，我也没有买周边啊，因为关注了杨博文，周边一出，他也给我自动扣款了，杨博文我的高会为什么只有你一个关注，自动关注的吧",
+      "text": "十年前三小只 十年后杨博文 不知道有没有人懂我😭",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -5469,7 +5469,7 @@
       "id": "comment-0608",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "十年前三小只 十年后杨博文 不知道有没有人懂我😭",
+      "text": "这个视频开了净化治愈模式吗 我看了500遍[不你不想]",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -5478,7 +5478,7 @@
       "id": "comment-0609",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "这个视频开了净化治愈模式吗 我看了500遍[不你不想]",
+      "text": "没有人会不喜欢杨博文[玫瑰]",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -5487,7 +5487,7 @@
       "id": "comment-0610",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "没有人会不喜欢杨博文[玫瑰]",
+      "text": "李飞命真好，挖到了这么厉害的小孩，感觉他出生第一句话就是我是爱豆，星味十足[钱]",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -5496,7 +5496,7 @@
       "id": "comment-0611",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "李飞命真好，挖到了这么厉害的小孩，感觉他出生第一句话就是我是爱豆，星味十足[钱]",
+      "text": "小飞行家[求求了] 2026顺顺利利开开心心没有烦恼",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -5505,7 +5505,7 @@
       "id": "comment-0612",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "小飞行家[求求了] 2026顺顺利利开开心心没有烦恼",
+      "text": "上天入地再也找不到比你更好的男孩",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -5514,7 +5514,7 @@
       "id": "comment-0613",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "上天入地再也找不到比你更好的男孩",
+      "text": "在四代里 他的出众并不在于喧哗的光芒 而在于那种温润的稳定感 小杨一定会越来越好",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -5523,22 +5523,13 @@
       "id": "comment-0614",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "在四代里 他的出众并不在于喧哗的光芒 而在于那种温润的稳定感 小杨一定会越来越好",
-      "enabled": true,
-      "purpose": "comment",
-      "weight": 3
-    },
-    {
-      "id": "comment-0615",
-      "category": "粉丝碎碎念",
-      "tags": [],
       "text": "爱上杨博文理所当然，我是说从性格颜值实力头脑身材各个方面爱上杨博文都是理所当然😍",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
     },
     {
-      "id": "comment-0616",
+      "id": "comment-0615",
       "category": "抽象土味",
       "tags": [],
       "text": "歇斯底里是崩溃，底里歇斯是美味，博文和我要大富大贵！",
@@ -5547,7 +5538,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0617",
+      "id": "comment-0616",
       "category": "抽象土味",
       "tags": [],
       "text": "帅得小女子我囧架架，杨博文请立刻跟我回家！",
@@ -5556,7 +5547,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0618",
+      "id": "comment-0617",
       "category": "抽象土味",
       "tags": [],
       "text": "拒绝此男，从你做起，但我做不到，因为我只是博文的狗",
@@ -5565,7 +5556,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0619",
+      "id": "comment-0618",
       "category": "抽象土味",
       "tags": [],
       "text": "杨博文就很萌啊，人一但看过了杨博文，智商情商提高95%",
@@ -5574,7 +5565,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0620",
+      "id": "comment-0619",
       "category": "抽象土味",
       "tags": [],
       "text": "科学家不肯说杨博文哪来的，只说他实在太帅了。",
@@ -5583,7 +5574,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0621",
+      "id": "comment-0620",
       "category": "抽象土味",
       "tags": [],
       "text": "我本来在耕田，看了一眼杨博文，一脚把牛踢开自己耕了20亩。",
@@ -5592,7 +5583,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0622",
+      "id": "comment-0621",
       "category": "抽象土味",
       "tags": [],
       "text": "走在路上看你的视频，老头以为天亮了，愣是起来耕了全村的地😎",
@@ -5601,7 +5592,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0623",
+      "id": "comment-0622",
       "category": "抽象土味",
       "tags": [],
       "text": "这种脸也敢发出来？不怕我原地6万度大旋转跪地求婚吗？",
@@ -5610,7 +5601,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0624",
+      "id": "comment-0623",
       "category": "抽象土味",
       "tags": [],
       "text": "下载了国家反诈中心App，还是被杨博文骗走了心。",
@@ -5619,7 +5610,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0625",
+      "id": "comment-0624",
       "category": "抽象土味",
       "tags": [],
       "text": "宝宝你怎么这么好看！混账帅哥，乱我道心！",
@@ -5628,7 +5619,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0626",
+      "id": "comment-0625",
       "category": "抽象土味",
       "tags": [],
       "text": "鬼火正在凑钱买，格子裤已穿上，请杨博文不要爱上别人",
@@ -5637,7 +5628,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0627",
+      "id": "comment-0626",
       "category": "抽象土味",
       "tags": [],
       "text": "请你吃妙脆角▼▲►▼▲►▼博文最帅▼▲►▼▲►▼▲►",
@@ -5646,7 +5637,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0628",
+      "id": "comment-0627",
       "category": "抽象土味",
       "tags": [],
       "text": "一个人玩手机吗？怕不怕？要不要加我微信我保护你。",
@@ -5655,7 +5646,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0629",
+      "id": "comment-0628",
       "category": "抽象土味",
       "tags": [],
       "text": "太美啦！他奶奶的鸡蛋舅六的哈密瓜，博文怎么这么帅！",
@@ -5664,7 +5655,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0630",
+      "id": "comment-0629",
       "category": "抽象土味",
       "tags": [],
       "text": "彻底疯狂！上勾拳下勾拳，杨博文你是我的命中注定",
@@ -5673,7 +5664,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0631",
+      "id": "comment-0630",
       "category": "抽象土味",
       "tags": [],
       "text": "我搜全网最帅，结果真弹这儿了，大数据诚不欺我。",
@@ -5682,7 +5673,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0632",
+      "id": "comment-0631",
       "category": "抽象土味",
       "tags": [],
       "text": "早上5点起床坐牛车，就是为了给小羊评论上一句：老公！",
@@ -5691,7 +5682,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0633",
+      "id": "comment-0632",
       "category": "抽象土味",
       "tags": [],
       "text": "看着你的视频，我忘记了当今社会的尔羊我诈",
@@ -5700,7 +5691,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0634",
+      "id": "comment-0633",
       "category": "抽象土味",
       "tags": [],
       "text": "这种帅气根本不经过大脑思考，完全是本能的吸引",
@@ -5709,7 +5700,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0635",
+      "id": "comment-0634",
       "category": "抽象土味",
       "tags": [],
       "text": "拍成这样也敢发？我直接手捧鲜花嘴叼玫瑰求婚！",
@@ -5718,7 +5709,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0636",
+      "id": "comment-0635",
       "category": "抽象土味",
       "tags": [],
       "text": "剑眉星眸，清新俊逸，博文你是潘安再世吗？",
@@ -5727,7 +5718,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0637",
+      "id": "comment-0636",
       "category": "抽象土味",
       "tags": [],
       "text": "宝宝，我在厂里踩踏板，全是按着想你时的节奏踩的。",
@@ -5736,7 +5727,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0638",
+      "id": "comment-0637",
       "category": "抽象土味",
       "tags": [],
       "text": "小蛋糕，我把房子送你了，我的就是你的。",
@@ -5745,7 +5736,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0639",
+      "id": "comment-0638",
       "category": "抽象土味",
       "tags": [],
       "text": "我爸的女儿、我哥的妹妹、我爷的孙女全归你了",
@@ -5754,7 +5745,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0640",
+      "id": "comment-0639",
       "category": "抽象土味",
       "tags": [],
       "text": "也不是特别帅吧，就是想让你戴上我们的婚戒。",
@@ -5763,7 +5754,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0641",
+      "id": "comment-0640",
       "category": "抽象土味",
       "tags": [],
       "text": "刚才宾利钥匙掉了，就是为了弯腰看一眼你的视频。",
@@ -5772,7 +5763,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0642",
+      "id": "comment-0641",
       "category": "抽象土味",
       "tags": [],
       "text": "人怎么会是软软小羊呢？杨博文你是棉花糖做的吧",
@@ -5781,7 +5772,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0643",
+      "id": "comment-0642",
       "category": "抽象土味",
       "tags": [],
       "text": "这是我老公我先生我相公我孩他爸🤤",
@@ -5790,7 +5781,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0644",
+      "id": "comment-0643",
       "category": "抽象土味",
       "tags": [],
       "text": "感谢我的父母，感谢我的手机，让我刷到了杨博文",
@@ -5799,7 +5790,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0645",
+      "id": "comment-0644",
       "category": "抽象土味",
       "tags": [],
       "text": "医生说杨博文刚出生时的职业就是：爱豆",
@@ -5808,7 +5799,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0646",
+      "id": "comment-0645",
       "category": "抽象土味",
       "tags": [],
       "text": "我的酒量是三瓶生命之水，或者博文的一句“过来”。",
@@ -5817,7 +5808,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0647",
+      "id": "comment-0646",
       "category": "抽象土味",
       "tags": [],
       "text": "喜欢杨博文的人会原地飞天，不喜欢的会被吓到坐下",
@@ -5826,7 +5817,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0648",
+      "id": "comment-0647",
       "category": "抽象土味",
       "tags": [],
       "text": "就这样使劲扭博文，扭到驿站给我取快递",
@@ -5835,7 +5826,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0649",
+      "id": "comment-0648",
       "category": "抽象土味",
       "tags": [],
       "text": "做杨博文粉丝的快乐，是其他家体会不到的。",
@@ -5844,7 +5835,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0650",
+      "id": "comment-0649",
       "category": "抽象土味",
       "tags": [],
       "text": "帅的时候是老公，萌的时候是女儿，你是我的全部。",
@@ -5853,7 +5844,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0651",
+      "id": "comment-0650",
       "category": "抽象土味",
       "tags": [],
       "text": "天塌了，我就问老天爷：难道你不喜欢杨博文吗？",
@@ -5862,7 +5853,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0652",
+      "id": "comment-0651",
       "category": "抽象土味",
       "tags": [],
       "text": "让我嫁给他，就算住豪宅开豪车我也愿意。",
@@ -5871,7 +5862,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0653",
+      "id": "comment-0652",
       "category": "抽象土味",
       "tags": [],
       "text": "现在站在你面前的是，萌物之王——杨博文！",
@@ -5880,7 +5871,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0654",
+      "id": "comment-0653",
       "category": "抽象土味",
       "tags": [],
       "text": "我钓鱼20年没见过这种鱼钩，你一放我就上钩了。",
@@ -5889,7 +5880,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0655",
+      "id": "comment-0654",
       "category": "抽象土味",
       "tags": [],
       "text": "建议研究“杨博文效应”，看完会瞳孔放大。",
@@ -5898,7 +5889,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0656",
+      "id": "comment-0655",
       "category": "抽象土味",
       "tags": [],
       "text": "我家博博全方面完美，好烦怎么这么喜欢他。",
@@ -5907,7 +5898,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0657",
+      "id": "comment-0656",
       "category": "抽象土味",
       "tags": [],
       "text": "杨博文为什么不能是我的孩子？我要疯狂截图！",
@@ -5916,7 +5907,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0658",
+      "id": "comment-0657",
       "category": "抽象土味",
       "tags": [],
       "text": "危险的男人，我要让全世界知道你的帅气。",
@@ -5925,7 +5916,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0659",
+      "id": "comment-0658",
       "category": "抽象土味",
       "tags": [],
       "text": "双子男就这样勾引我，我好歹也是个女人啊。",
@@ -5934,7 +5925,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0660",
+      "id": "comment-0659",
       "category": "抽象土味",
       "tags": [],
       "text": "看到杨博文就神清气爽，百病全消。",
@@ -5943,7 +5934,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0661",
+      "id": "comment-0660",
       "category": "抽象土味",
       "tags": [],
       "text": "姨都是奔3的人了，看你看得心都化了(≧∇≦)ﾉ",
@@ -5952,7 +5943,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0662",
+      "id": "comment-0661",
       "category": "抽象土味",
       "tags": [],
       "text": "时代峰峻你拐卖我的孩子，快还给我。",
@@ -5961,7 +5952,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0663",
+      "id": "comment-0662",
       "category": "抽象土味",
       "tags": [],
       "text": "好美啊，好纯啊，好欲啊，我不行了。",
@@ -5970,7 +5961,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0664",
+      "id": "comment-0663",
       "category": "抽象土味",
       "tags": [],
       "text": "听说时代峰峻来了个踢馆男孩叫舒肤佳（杨博文）。",
@@ -5979,7 +5970,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0665",
+      "id": "comment-0664",
       "category": "抽象土味",
       "tags": [],
       "text": "我的少女时代有严重的恋羊癖，喜欢叫他欧巴。",
@@ -5988,7 +5979,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0666",
+      "id": "comment-0665",
       "category": "抽象土味",
       "tags": [],
       "text": "我装作被他迷住其实是我计划的一部分",
@@ -5997,7 +5988,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0667",
+      "id": "comment-0666",
       "category": "抽象土味",
       "tags": [],
       "text": "这个视频我看一遍，洒家看一遍，朕看一遍。",
@@ -6006,7 +5997,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0668",
+      "id": "comment-0667",
       "category": "抽象土味",
       "tags": [],
       "text": "杨博文，你是我的官人，我的唯一。",
@@ -6015,7 +6006,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0669",
+      "id": "comment-0668",
       "category": "抽象土味",
       "tags": [],
       "text": "这种帅气是真实存在的吗？我不信，除非你亲我一口",
@@ -6024,7 +6015,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0670",
+      "id": "comment-0669",
       "category": "抽象土味",
       "tags": [],
       "text": "看着你的脸，我能吃下三碗大米饭。",
@@ -6033,7 +6024,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0671",
+      "id": "comment-0670",
       "category": "抽象土味",
       "tags": [],
       "text": "杨博文，你真是个害人精，害得我这么喜欢你。",
@@ -6042,7 +6033,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0672",
+      "id": "comment-0671",
       "category": "抽象土味",
       "tags": [],
       "text": "如果帅是一种罪，杨博文已经判了无期",
@@ -6051,7 +6042,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0673",
+      "id": "comment-0672",
       "category": "抽象土味",
       "tags": [],
       "text": "你的眼睛里有星辰大海，而我的眼睛里只有你。",
@@ -6060,7 +6051,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0674",
+      "id": "comment-0673",
       "category": "抽象土味",
       "tags": [],
       "text": "别散发魅力了，我的心跳快得要爆炸了",
@@ -6069,7 +6060,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0675",
+      "id": "comment-0674",
       "category": "抽象土味",
       "tags": [],
       "text": "杨博文，你是我在互联网上的精神家园。",
@@ -6078,7 +6069,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0676",
+      "id": "comment-0675",
       "category": "抽象土味",
       "tags": [],
       "text": "这种颜值是真实存在的吗？是AI画出来的吧❓",
@@ -6087,7 +6078,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0677",
+      "id": "comment-0676",
       "category": "抽象土味",
       "tags": [],
       "text": "你的帅气让我忘记了所有的烦恼。",
@@ -6096,7 +6087,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0678",
+      "id": "comment-0677",
       "category": "抽象土味",
       "tags": [],
       "text": "杨博文，你是我生活的调味剂，甜度超标。",
@@ -6105,7 +6096,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0679",
+      "id": "comment-0678",
       "category": "抽象土味",
       "tags": [],
       "text": "看你的视频，我觉得我的灵魂得到了升华。",
@@ -6114,7 +6105,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0680",
+      "id": "comment-0679",
       "category": "抽象土味",
       "tags": [],
       "text": "你是我的克星，但我甘愿被你降服。",
@@ -6123,7 +6114,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0681",
+      "id": "comment-0680",
       "category": "抽象土味",
       "tags": [],
       "text": "杨博文，你是什么下凡的仙子吗？",
@@ -6132,7 +6123,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0682",
+      "id": "comment-0681",
       "category": "抽象土味",
       "tags": [],
       "text": "看到你，我就想去跑个五公里发泄一下心跳。",
@@ -6141,7 +6132,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0683",
+      "id": "comment-0682",
       "category": "抽象土味",
       "tags": [],
       "text": "你是我的多巴胺，我的内啡肽。",
@@ -6150,7 +6141,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0684",
+      "id": "comment-0683",
       "category": "抽象土味",
       "tags": [],
       "text": "杨博文，你是我在人间发现的最美的宝藏。",
@@ -6159,7 +6150,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0685",
+      "id": "comment-0684",
       "category": "抽象土味",
       "tags": [],
       "text": "你的笑容比阳光还要灿烂，比蜜还要甜。",
@@ -6168,7 +6159,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0686",
+      "id": "comment-0685",
       "category": "抽象土味",
       "tags": [],
       "text": "看到你，我就觉得自己又恋爱了。",
@@ -6177,7 +6168,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0687",
+      "id": "comment-0686",
       "category": "抽象土味",
       "tags": [],
       "text": "杨博文，你是我青春里最亮丽的一道风景线。",
@@ -6186,7 +6177,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0688",
+      "id": "comment-0687",
       "category": "抽象土味",
       "tags": [],
       "text": "你的存在，让我觉得世界还是很美好的。",
@@ -6195,7 +6186,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0689",
+      "id": "comment-0688",
       "category": "抽象土味",
       "tags": [],
       "text": "这种颜值，建议直接申遗。",
@@ -6204,7 +6195,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0690",
+      "id": "comment-0689",
       "category": "抽象土味",
       "tags": [],
       "text": "杨博文，你就是我的命中注定。",
@@ -6213,7 +6204,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0691",
+      "id": "comment-0690",
       "category": "抽象土味",
       "tags": [],
       "text": "看着你的视频，我不自觉地露出了姨母笑。",
@@ -6222,7 +6213,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0692",
+      "id": "comment-0691",
       "category": "抽象土味",
       "tags": [],
       "text": "你是我的心头好，我的掌上明珠。",
@@ -6231,7 +6222,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0693",
+      "id": "comment-0692",
       "category": "抽象土味",
       "tags": [],
       "text": "杨博文，你让我体会到了什么叫一眼万年。",
@@ -6240,7 +6231,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0694",
+      "id": "comment-0693",
       "category": "抽象土味",
       "tags": [],
       "text": "你的帅气，是我每天上班的唯一动力。",
@@ -6249,7 +6240,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0695",
+      "id": "comment-0694",
       "category": "抽象土味",
       "tags": [],
       "text": "看到你，我就想把全世界最好的东西都给你。",
@@ -6258,7 +6249,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0696",
+      "id": "comment-0695",
       "category": "抽象土味",
       "tags": [],
       "text": "杨博文，你是我心里的白月光。",
@@ -6267,7 +6258,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0697",
+      "id": "comment-0696",
       "category": "抽象土味",
       "tags": [],
       "text": "这种魅力，真的是无处安放。",
@@ -6276,7 +6267,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0698",
+      "id": "comment-0697",
       "category": "抽象土味",
       "tags": [],
       "text": "看着你，我觉得我的人生圆满了。",
@@ -6285,7 +6276,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0699",
+      "id": "comment-0698",
       "category": "抽象土味",
       "tags": [],
       "text": "杨博文，你是我永远的Boyfriend。",
@@ -6294,7 +6285,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0700",
+      "id": "comment-0699",
       "category": "抽象土味",
       "tags": [],
       "text": "你的每一个表情都在撩拨我的心弦。",
@@ -6303,7 +6294,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0701",
+      "id": "comment-0700",
       "category": "抽象土味",
       "tags": [],
       "text": "看到你，我就想写一首诗赞美你。",
@@ -6312,7 +6303,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0702",
+      "id": "comment-0701",
       "category": "抽象土味",
       "tags": [],
       "text": "杨博文，你是我生命中的小确幸。",
@@ -6321,7 +6312,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0703",
+      "id": "comment-0702",
       "category": "抽象土味",
       "tags": [],
       "text": "你的帅气，让我失去了语言表达能力。",
@@ -6330,7 +6321,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0704",
+      "id": "comment-0703",
       "category": "抽象土味",
       "tags": [],
       "text": "看到你，我就想原地求婚。",
@@ -6339,7 +6330,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0705",
+      "id": "comment-0704",
       "category": "抽象土味",
       "tags": [],
       "text": "杨博文，你是我永远的宝贝。",
@@ -6348,7 +6339,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0706",
+      "id": "comment-0705",
       "category": "抽象土味",
       "tags": [],
       "text": "你的存在，本身就是一种奇迹。",
@@ -6357,7 +6348,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0707",
+      "id": "comment-0706",
       "category": "抽象土味",
       "tags": [],
       "text": "看到你，我就觉得人生值得。",
@@ -6366,7 +6357,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0708",
+      "id": "comment-0707",
       "category": "抽象土味",
       "tags": [],
       "text": "杨博文，你是我心里的朱砂痣。",
@@ -6375,7 +6366,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0709",
+      "id": "comment-0708",
       "category": "抽象土味",
       "tags": [],
       "text": "你的帅气，让我无法呼吸。",
@@ -6384,7 +6375,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0710",
+      "id": "comment-0709",
       "category": "抽象土味",
       "tags": [],
       "text": "看到你，我就想为你承包整个鱼塘。",
@@ -6393,7 +6384,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0711",
+      "id": "comment-0710",
       "category": "抽象土味",
       "tags": [],
       "text": "杨博文，你是我永远的骄傲。",
@@ -6402,7 +6393,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0712",
+      "id": "comment-0711",
       "category": "抽象土味",
       "tags": [],
       "text": "你的笑容，是我最珍贵的收藏。",
@@ -6411,7 +6402,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0713",
+      "id": "comment-0712",
       "category": "抽象土味",
       "tags": [],
       "text": "看到你，我就觉得自己变年轻了。",
@@ -6420,7 +6411,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0714",
+      "id": "comment-0713",
       "category": "抽象土味",
       "tags": [],
       "text": "杨博文，你是我永远的梦想。",
@@ -6429,7 +6420,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0715",
+      "id": "comment-0714",
       "category": "抽象土味",
       "tags": [],
       "text": "彻底疯狂！杨博文你是最帅的！",
@@ -6438,7 +6429,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0716",
+      "id": "comment-0715",
       "category": "B站安利-颜值",
       "tags": [],
       "text": "【【杨博文】羊公必看：此男做老公，可谓是精彩不停也。】 https://www.bilibili.com/video/BV1kk6nYKECt/?share_source=copy_web",
@@ -6447,7 +6438,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0717",
+      "id": "comment-0716",
       "category": "B站安利-颜值",
       "tags": [],
       "text": "【【羊公必看2.0】2026请杨博文放肆做老攻。】 https://www.bilibili.com/video/BV1mbiPB1EZy/?share_source=copy_web",
@@ -6456,7 +6447,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0718",
+      "id": "comment-0717",
       "category": "B站安利-成长向",
       "tags": [],
       "text": "【时 代 峰 峻 正 统 偶 像】 https://www.bilibili.com/video/BV18z42187ob/?share_source=copy_web",
@@ -6465,7 +6456,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0719",
+      "id": "comment-0718",
       "category": "B站安利-成长向",
       "tags": [],
       "text": "【杨博文｜燃向剪辑｜命是弱者借口，运是强者谦辞。杨博文的人生本就是一部大型爽文。】 https://www.bilibili.com/video/BV1oYqpBUEGd/?share_source=copy_web",
@@ -6474,7 +6465,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0720",
+      "id": "comment-0719",
       "category": "B站安利-成长向",
       "tags": [],
       "text": "【【杨博文】这不就是爽文大男主吗！没想到他竟然这么适合当队长】 https://www.bilibili.com/video/BV158DSYPEEf/?share_source=copy_web",
@@ -6483,7 +6474,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0721",
+      "id": "comment-0720",
       "category": "B站安利-成长向",
       "tags": [],
       "text": "【【杨博文】看我不爽，那就看我爽下去 | 一起来看杨博文在“突围”的表现吧！】 https://www.bilibili.com/video/BV1eKhhzBE72/?share_source=copy_web",
@@ -6492,7 +6483,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0722",
+      "id": "comment-0721",
       "category": "B站安利-成长向",
       "tags": [],
       "text": "【【杨博文】看好了，你们的大反派来了。】 https://www.bilibili.com/video/BV1Ab421p7Kv/?share_source=copy_web",
@@ -6501,10 +6492,19 @@
       "weight": 3
     },
     {
-      "id": "comment-0723",
+      "id": "comment-0722",
       "category": "B站安利-舞台",
       "tags": [],
       "text": "【【杨博文】《樂（LALALALA）》新春音乐会直拍 原来这就是13岁的表情管理！】 https://www.bilibili.com/video/BV1yu4m1P7Zt/?share_source=copy_web&vd_source=71e6f663ae51157ade38a9a8a90f8e69",
+      "enabled": true,
+      "purpose": "comment",
+      "weight": 3
+    },
+    {
+      "id": "comment-0723",
+      "category": "B站安利-舞台",
+      "tags": [],
+      "text": "【【TF家族-杨博文·Guilty focus】哥哥我可以摸摸你的腹肌嘛～】 https://www.bilibili.com/video/BV1VQwTeuEe1/?share_source=copy_web&vd_source=71e6f663ae51157ade38a9a8a90f8e69",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -6522,7 +6522,7 @@
       "id": "comment-0725",
       "category": "B站安利-舞台",
       "tags": [],
-      "text": "【【TF家族-杨博文·Guilty focus】哥哥我可以摸摸你的腹肌嘛～】 https://www.bilibili.com/video/BV1VQwTeuEe1/?share_source=copy_web&vd_source=71e6f663ae51157ade38a9a8a90f8e69",
+      "text": "【这是我..配看的吗？！性张力拉满 编织玫瑰花园等你入局 ｜tf家族四代杨博文Therefore I AM舞台双机位直拍】 https://www.bilibili.com/video/BV1TzY1eSEQv/?share_source=copy_web&vd_source=71e6f663ae51157ade38a9a8a90f8e69",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -6540,7 +6540,7 @@
       "id": "comment-0727",
       "category": "B站安利-舞台",
       "tags": [],
-      "text": "【这是我..配看的吗？！性张力拉满 编织玫瑰花园等你入局 ｜tf家族四代杨博文Therefore I AM舞台双机位直拍】 https://www.bilibili.com/video/BV1TzY1eSEQv/?share_source=copy_web&vd_source=71e6f663ae51157ade38a9a8a90f8e69",
+      "text": "【时代峰峻韩舞翻跳权唯一拥有者？欢迎收看10后翻跳《Lucifer》｜杨博文】 https://www.bilibili.com/video/BV1BmttzwExF/?share_source=copy_web&vd_source=71e6f663ae51157ade38a9a8a90f8e69",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -6549,7 +6549,7 @@
       "id": "comment-0728",
       "category": "B站安利-舞台",
       "tags": [],
-      "text": "【时代峰峻韩舞翻跳权唯一拥有者？欢迎收看10后翻跳《Lucifer》｜杨博文】 https://www.bilibili.com/video/BV1BmttzwExF/?share_source=copy_web&vd_source=71e6f663ae51157ade38a9a8a90f8e69",
+      "text": "【元气男初！杨博文Plot Twist两日混剪直拍～】 https://www.bilibili.com/video/BV1DQpveeErN/?share_source=copy_web&vd_source=71e6f663ae51157ade38a9a8a90f8e69",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -6558,7 +6558,7 @@
       "id": "comment-0729",
       "category": "B站安利-舞台",
       "tags": [],
-      "text": "【元气男初！杨博文Plot Twist两日混剪直拍～】 https://www.bilibili.com/video/BV1DQpveeErN/?share_source=copy_web&vd_source=71e6f663ae51157ade38a9a8a90f8e69",
+      "text": "【【4K精剪】希区考克 作品152 | 杨博文直拍 | 260131】 https://www.bilibili.com/video/BV1XA6nBGEPV/?share_source=copy_web&vd_source=71e6f663ae51157ade38a9a8a90f8e69",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -6567,7 +6567,7 @@
       "id": "comment-0730",
       "category": "B站安利-舞台",
       "tags": [],
-      "text": "【【4K精剪】希区考克 作品152 | 杨博文直拍 | 260131】 https://www.bilibili.com/video/BV1XA6nBGEPV/?share_source=copy_web&vd_source=71e6f663ae51157ade38a9a8a90f8e69",
+      "text": "【【杨博文】《ON》直拍｜体验主舞魅力 丝滑卡点与力量迸发】 https://www.bilibili.com/video/BV1AtBvBvEpZ/?share_source=copy_web&vd_source=71e6f663ae51157ade38a9a8a90f8e69",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -6576,7 +6576,7 @@
       "id": "comment-0731",
       "category": "B站安利-舞台",
       "tags": [],
-      "text": "【【杨博文】《ON》直拍｜体验主舞魅力 丝滑卡点与力量迸发】 https://www.bilibili.com/video/BV1AtBvBvEpZ/?share_source=copy_web&vd_source=71e6f663ae51157ade38a9a8a90f8e69",
+      "text": "【【杨博文｜4K直拍】跟着节奏一起《闭嘴跳舞》～】 https://www.bilibili.com/video/BV1jN64BKECs/?share_source=copy_web&vd_source=71e6f663ae51157ade38a9a8a90f8e69",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -6585,7 +6585,7 @@
       "id": "comment-0732",
       "category": "B站安利-舞台",
       "tags": [],
-      "text": "【【杨博文｜4K直拍】跟着节奏一起《闭嘴跳舞》～】 https://www.bilibili.com/video/BV1jN64BKECs/?share_source=copy_web&vd_source=71e6f663ae51157ade38a9a8a90f8e69",
+      "text": "【【杨博文｜whywhywhy】三机位 4K竖屏直拍】 https://www.bilibili.com/video/BV1qy64BBE9T/?share_source=copy_web&vd_source=71e6f663ae51157ade38a9a8a90f8e69",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -6594,7 +6594,7 @@
       "id": "comment-0733",
       "category": "B站安利-舞台",
       "tags": [],
-      "text": "【【杨博文｜whywhywhy】三机位 4K竖屏直拍】 https://www.bilibili.com/video/BV1qy64BBE9T/?share_source=copy_web&vd_source=71e6f663ae51157ade38a9a8a90f8e69",
+      "text": "【【杨博文｜4K舞台直拍】好运来祝你好运来～博文宝宝祝你新年好运来】 https://www.bilibili.com/video/BV1s8BvBPEN5/?share_source=copy_web&vd_source=71e6f663ae51157ade38a9a8a90f8e69",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -6603,7 +6603,7 @@
       "id": "comment-0734",
       "category": "B站安利-舞台",
       "tags": [],
-      "text": "【【杨博文｜4K舞台直拍】好运来祝你好运来～博文宝宝祝你新年好运来】 https://www.bilibili.com/video/BV1s8BvBPEN5/?share_source=copy_web&vd_source=71e6f663ae51157ade38a9a8a90f8e69",
+      "text": "【「杨博文｜卡拉永远OK」突发舞台事故？我怎么没看见】 https://www.bilibili.com/video/BV1M9ePzaELH/?share_source=copy_web&vd_source=71e6f663ae51157ade38a9a8a90f8e69",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -6612,7 +6612,7 @@
       "id": "comment-0735",
       "category": "B站安利-舞台",
       "tags": [],
-      "text": "【「杨博文｜卡拉永远OK」突发舞台事故？我怎么没看见】 https://www.bilibili.com/video/BV1M9ePzaELH/?share_source=copy_web&vd_source=71e6f663ae51157ade38a9a8a90f8e69",
+      "text": "【【TF家族-杨博文·姐姐恋爱吧 四机位 focus】爱神小天使降临舞台】 https://www.bilibili.com/video/BV179wie8E1x/?share_source=copy_web&vd_source=71e6f663ae51157ade38a9a8a90f8e69",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -6621,7 +6621,7 @@
       "id": "comment-0736",
       "category": "B站安利-舞台",
       "tags": [],
-      "text": "【【TF家族-杨博文·姐姐恋爱吧 四机位 focus】爱神小天使降临舞台】 https://www.bilibili.com/video/BV179wie8E1x/?share_source=copy_web&vd_source=71e6f663ae51157ade38a9a8a90f8e69",
+      "text": "【舞力全开！主舞大人爽飞全场 15岁少年「杨博文」尽情演绎《Go In Blind》】 https://www.bilibili.com/video/BV1TLYnzzEx9/?share_source=copy_web&vd_source=71e6f663ae51157ade38a9a8a90f8e69",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -6630,22 +6630,13 @@
       "id": "comment-0737",
       "category": "B站安利-舞台",
       "tags": [],
-      "text": "【舞力全开！主舞大人爽飞全场 15岁少年「杨博文」尽情演绎《Go In Blind》】 https://www.bilibili.com/video/BV1TLYnzzEx9/?share_source=copy_web&vd_source=71e6f663ae51157ade38a9a8a90f8e69",
-      "enabled": true,
-      "purpose": "comment",
-      "weight": 3
-    },
-    {
-      "id": "comment-0738",
-      "category": "B站安利-舞台",
-      "tags": [],
       "text": "【【杨博文｜4K双机位直拍】《第二类我》好帅的机械舞】 https://www.bilibili.com/video/BV1Hj6tB2E4b/?share_source=copy_web&vd_source=71e6f663ae51157ade38a9a8a90f8e69",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
     },
     {
-      "id": "comment-0739",
+      "id": "comment-0738",
       "category": "B站安利-考核",
       "tags": [],
       "text": "【考核魔王翻跳《GGUM》这是10后练习生能爆发出来的实力吗？【杨博文】】 https://www.bilibili.com/video/BV1fnDsYPEb6/?share_source=copy_web&vd_source=71e6f663ae51157ade38a9a8a90f8e69",
@@ -6654,7 +6645,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0740",
+      "id": "comment-0739",
       "category": "B站安利-考核",
       "tags": [],
       "text": "【13岁初中生翻跳《Rover》舞蹈实力惊人【杨博文】】 https://www.bilibili.com/video/BV1cG411i7ZN/?share_source=copy_web&vd_source=71e6f663ae51157ade38a9a8a90f8e69",
@@ -6663,7 +6654,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0741",
+      "id": "comment-0740",
       "category": "B站安利-考核",
       "tags": [],
       "text": "【拯救四代实力口碑的人出现了！点击收看10年主舞大人翻跳田柾国神级舞台《standing next to you》【杨博文】】 https://www.bilibili.com/video/BV1Gr421E7Ww/?share_source=copy_web&vd_source=71e6f663ae51157ade38a9a8a90f8e69",
@@ -6672,7 +6663,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0742",
+      "id": "comment-0741",
       "category": "路人夸夸",
       "tags": [],
       "text": "我粉二代的觉得他跳舞太好看了，有自己的风格",
@@ -6681,7 +6672,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0743",
+      "id": "comment-0742",
       "category": "路人夸夸",
       "tags": [],
       "text": "说他是喜羊羊塑的真是个聪明蛋啊",
@@ -6690,7 +6681,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0744",
+      "id": "comment-0743",
       "category": "路人夸夸",
       "tags": [],
       "text": "你们城里人这啥手机啊 一打开送恁大块蛋糕",
@@ -6699,7 +6690,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0745",
+      "id": "comment-0744",
       "category": "路人夸夸",
       "tags": [],
       "text": "他笑起来好可爱，朕怎么从来没见过这款",
@@ -6708,7 +6699,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0746",
+      "id": "comment-0745",
       "category": "路人夸夸",
       "tags": [],
       "text": "像是高中成绩很好温文儒雅的学长 就算和他表白失败了问他能抱抱吗 也是会同意的那种[猪头]",
@@ -6717,7 +6708,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0747",
+      "id": "comment-0746",
       "category": "路人夸夸",
       "tags": [],
       "text": "其实以前单看颜值我没有很喜欢这个小孩儿，后来是真的纯纯被他的人格魅力所折服……给人感觉特别舒服",
@@ -6726,7 +6717,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0748",
+      "id": "comment-0747",
       "category": "路人夸夸",
       "tags": [],
       "text": "不担小羊但是每次物料里听着little sheep在北京的公司里碎碎念感觉就很安心，这个孩子一看就是那种认真温柔的孩子，两眼弯弯的有时候又会认真的爆出一句很幽默的话来，看着他真的很让人放松，像是炎热的夏天里吃上一口青苹果味的冰激凌，很神清气爽",
@@ -6735,7 +6726,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0749",
+      "id": "comment-0748",
       "category": "路人夸夸",
       "tags": [],
       "text": "好喜欢这个博文，这几天抖音连我老公都刷不到了[发怒]",
@@ -6744,7 +6735,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0750",
+      "id": "comment-0749",
       "category": "路人夸夸",
       "tags": [],
       "text": "跳舞好到底啥感觉 核心强到底啥感觉 控制好到底啥感觉 isolation清晰到底啥感觉 律动强到底啥感觉 扒舞快到底啥感觉 成绩好到底啥感觉 精力怪到底啥感觉 原图直出到底啥感觉 看看杨博文就知道了",
@@ -6753,7 +6744,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0751",
+      "id": "comment-0750",
       "category": "路人夸夸",
       "tags": [],
       "text": "现在人大多数给人有种，活人微死的感觉，我也是。但他真的好有精气神，每次刷到杨博文的视频都停下来看看，好有活力",
@@ -6762,7 +6753,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0752",
+      "id": "comment-0751",
       "category": "路人夸夸",
       "tags": [],
       "text": "粉丝一定要让他出道好吗[流泪][流泪][流泪]感觉他太适合当爱豆了[捂脸]好会啊",
@@ -6771,7 +6762,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0753",
+      "id": "comment-0752",
       "category": "路人夸夸",
       "tags": [],
       "text": "这小孩是几代啊 长的白白净净的",
@@ -6780,7 +6771,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0754",
+      "id": "comment-0753",
       "category": "路人夸夸",
       "tags": [],
       "text": "路人真的不得不说一句，前途一片光明，无论是走学业还是走偶像，这把真的很吸粉，成绩好的人就有一种让人无法自拔爱上的魅力",
@@ -6789,7 +6780,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0755",
+      "id": "comment-0754",
       "category": "路人夸夸",
       "tags": [],
       "text": "杨博文 我一个死二次元现在真的有点喜欢你了[憨笑]",
@@ -6798,7 +6789,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0756",
+      "id": "comment-0755",
       "category": "路人夸夸",
       "tags": [],
       "text": "感觉杨博文有点谦谦公子的感觉，就是古代那种名门望族培养出来的贵公子，说话让人很舒服，反正纯路人就算不喜欢他也不可能讨厌他，我感觉喜欢的更多[看]",
@@ -6807,7 +6798,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0757",
+      "id": "comment-0756",
       "category": "路人夸夸",
       "tags": [],
       "text": "我就这样背着老公偷吃偷吃偷吃偷吃[九转大肠]",
@@ -6816,7 +6807,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0758",
+      "id": "comment-0757",
       "category": "路人夸夸",
       "tags": [],
       "text": "杨博文粉丝吃那么好",
@@ -6825,7 +6816,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0759",
+      "id": "comment-0758",
       "category": "路人夸夸",
       "tags": [],
       "text": "有没有人可以和我说一下，想要快速粉上杨博文应该去看哪些物料，看了新音认识了他，推荐一下[懵]（从来没有看过四代的东西）",
@@ -6834,7 +6825,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0760",
+      "id": "comment-0759",
       "category": "路人夸夸",
       "tags": [],
       "text": "我刷到他那个饭撒还害羞的视频，哇塞，真的是对着那个视频要笑出来了，怎么会有这么可爱的小男孩",
@@ -6843,7 +6834,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0761",
+      "id": "comment-0760",
       "category": "路人夸夸",
       "tags": [],
       "text": "他们这一代一开始我谁都不认识，结果唱的卡拉OK，第一个记住的就是他，声音洪亮，特别喜欢",
@@ -6852,7 +6843,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0762",
+      "id": "comment-0761",
       "category": "路人夸夸",
       "tags": [],
       "text": "这舞蹈实力在时代峰峻屈才了……",
@@ -6861,7 +6852,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0763",
+      "id": "comment-0762",
       "category": "路人夸夸",
       "tags": [],
       "text": "我终于遇到时代峰峻属于我的杀猪盘了 好萌好帅 我要爱上了[舔屏]",
@@ -6870,7 +6861,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0764",
+      "id": "comment-0763",
       "category": "路人夸夸",
       "tags": [],
       "text": "原来ybw这么萌。。。",
@@ -6879,7 +6870,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0765",
+      "id": "comment-0764",
       "category": "路人夸夸",
       "tags": [],
       "text": "路人支持杨博文c位出道[抱抱你]",
@@ -6888,7 +6879,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0766",
+      "id": "comment-0765",
       "category": "路人夸夸",
       "tags": [],
       "text": "他给我的感觉是就算不当练习生都可以把自己的人生过得很好[逞强落泪]",
@@ -6897,7 +6888,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0767",
+      "id": "comment-0766",
       "category": "路人夸夸",
       "tags": [],
       "text": "他跳舞好有感染力[流泪]每次刷到都忍不住停下来看",
@@ -6906,7 +6897,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0768",
+      "id": "comment-0767",
       "category": "路人夸夸",
       "tags": [],
       "text": "这些动作任何一个我做都能刷爆医保卡[戳手手]他好像那种过年时候能上台表演节目的小孩哈哈哈[钱]",
@@ -6915,7 +6906,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0769",
+      "id": "comment-0768",
       "category": "路人夸夸",
       "tags": [],
       "text": "他咋跳啥都这么有劲哈哈哈哈哈哈哈",
@@ -6924,7 +6915,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0770",
+      "id": "comment-0769",
       "category": "路人夸夸",
       "tags": [],
       "text": "我嘞个好帅[憨笑]是内娱新进贡的爱豆吗",
@@ -6933,7 +6924,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0771",
+      "id": "comment-0770",
       "category": "路人夸夸",
       "tags": [],
       "text": "我的偶像TFBOYS在他面前已经是老登了[大哭]",
@@ -6942,7 +6933,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0772",
+      "id": "comment-0771",
       "category": "路人夸夸",
       "tags": [],
       "text": "他笑起来好治愈",
@@ -6951,7 +6942,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0773",
+      "id": "comment-0772",
       "category": "路人夸夸",
       "tags": [],
       "text": "他笑起来好明亮呀[星星眼]有种你笑起来乌云散开的魔力（感觉这个小朋友的嬷嬷应该很多 好漂亮）",
@@ -6960,7 +6951,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0774",
+      "id": "comment-0773",
       "category": "路人夸夸",
       "tags": [],
       "text": "时代峰峻歹笋出好竹了喂",
@@ -6969,7 +6960,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0775",
+      "id": "comment-0774",
       "category": "路人夸夸",
       "tags": [],
       "text": "这一切都要从幻梦都破碎说起…",
@@ -6978,7 +6969,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0776",
+      "id": "comment-0775",
       "category": "路人夸夸",
       "tags": [],
       "text": "好像有点帅 粉丝给我安利安利",
@@ -6987,7 +6978,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0777",
+      "id": "comment-0776",
       "category": "路人夸夸",
       "tags": [],
       "text": "啰嗦了 这次真的有点想粉时代峰峻了[九转大肠]",
@@ -6996,7 +6987,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0778",
+      "id": "comment-0777",
       "category": "路人夸夸",
       "tags": [],
       "text": "次次都被他的舞蹈实力震惊 帅也是真的帅",
@@ -7005,7 +6996,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0779",
+      "id": "comment-0778",
       "category": "路人夸夸",
       "tags": [],
       "text": "这就是酷酷奥斯卡说的那个活力小子吧",
@@ -7014,7 +7005,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0780",
+      "id": "comment-0779",
       "category": "路人夸夸",
       "tags": [],
       "text": "我承认 幻梦的舞蹈功力比我略胜九九八十一筹",
@@ -7023,7 +7014,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0781",
+      "id": "comment-0780",
       "category": "路人夸夸",
       "tags": [],
       "text": "这小孩跳的这么好，居然是sdfj的吗",
@@ -7032,7 +7023,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0782",
+      "id": "comment-0781",
       "category": "路人夸夸",
       "tags": [],
       "text": "孩子这基本功劈穿地球了吧",
@@ -7041,7 +7032,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0783",
+      "id": "comment-0782",
       "category": "路人夸夸",
       "tags": [],
       "text": "对时代峰峻的印象还留在tf那个年代，但是自从幻梦破碎刷多了之后真的有被杨博文圈粉到，感觉乖乖的很努力的一个小男孩",
@@ -7050,7 +7041,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0784",
+      "id": "comment-0783",
       "category": "路人夸夸",
       "tags": [],
       "text": "只求这孩子别长男人病，他太可爱了！",
@@ -7059,7 +7050,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0785",
+      "id": "comment-0784",
       "category": "路人夸夸",
       "tags": [],
       "text": "有一说一这孩子是真的热爱舞台，也愿意抓住机会去努力，这样做什么都会成功的",
@@ -7068,7 +7059,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0786",
+      "id": "comment-0785",
       "category": "路人夸夸",
       "tags": [],
       "text": "该说不说虽然大家都调侃幻梦都破碎，但是这个小孩正经跳舞还是很有魅力的（不追楼）",
@@ -7077,7 +7068,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0787",
+      "id": "comment-0786",
       "category": "路人夸夸",
       "tags": [],
       "text": "纯路人第一次知道他是幻梦都破碎，后来老刷到发现舞跳的超级好，希望他能顺利出道越来越好，特别优秀的孩子啊",
@@ -7086,7 +7077,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0788",
+      "id": "comment-0787",
       "category": "路人夸夸",
       "tags": [],
       "text": "坏了 就这样一点一点被圈粉了…………",
@@ -7095,7 +7086,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0789",
+      "id": "comment-0788",
       "category": "路人夸夸",
       "tags": [],
       "text": "他确实可以吃这碗饭，好认真的一小孩。",
@@ -7104,7 +7095,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0790",
+      "id": "comment-0789",
       "category": "路人夸夸",
       "tags": [],
       "text": "跳的真好 他是哪个团的",
@@ -7113,7 +7104,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0791",
+      "id": "comment-0790",
       "category": "路人夸夸",
       "tags": [],
       "text": "纯路人 真的很喜欢他跳舞 很舒服",
@@ -7122,7 +7113,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0792",
+      "id": "comment-0791",
       "category": "路人夸夸",
       "tags": [],
       "text": "路人粉 他不出道没天理",
@@ -7131,7 +7122,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0793",
+      "id": "comment-0792",
       "category": "路人夸夸",
       "tags": [],
       "text": "他真的很正统峰峻味儿 幻视一代了…",
@@ -7140,7 +7131,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0794",
+      "id": "comment-0793",
       "category": "路人夸夸",
       "tags": [],
       "text": "看久了破碎哥竟生出一股别样的情愫……扑鼻而来的纯正的养成系的味道，纯净的不含一丝杂质的感觉[强]",
@@ -7149,7 +7140,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0795",
+      "id": "comment-0794",
       "category": "路人夸夸",
       "tags": [],
       "text": "真的会对磁场干净 温温柔柔有礼貌肯努力的男生无限好感🫶🏻",
@@ -7158,7 +7149,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0796",
+      "id": "comment-0795",
       "category": "路人夸夸",
       "tags": [],
       "text": "他好符合我对时代峰峻的小孩的印象啊",
@@ -7167,7 +7158,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0797",
+      "id": "comment-0796",
       "category": "路人夸夸",
       "tags": [],
       "text": "博文啊 奶觉得你就该出道 能开得起玩笑也有实力…",
@@ -7176,7 +7167,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0798",
+      "id": "comment-0797",
       "category": "路人夸夸",
       "tags": [],
       "text": "好清爽的青春男高啊 他一笑起来 我的整个世界都明亮了感觉",
@@ -7185,7 +7176,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0799",
+      "id": "comment-0798",
       "category": "路人夸夸",
       "tags": [],
       "text": "他怎么有一种薄荷海盐的感觉",
@@ -7194,7 +7185,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0800",
+      "id": "comment-0799",
       "category": "路人夸夸",
       "tags": [],
       "text": "他是那个跳卡拉ok很梗啾的那个吗",
@@ -7203,7 +7194,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0801",
+      "id": "comment-0800",
       "category": "路人夸夸",
       "tags": [],
       "text": "这个孩子怎么这么牛 被硬控了",
@@ -7212,7 +7203,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0802",
+      "id": "comment-0801",
       "category": "路人夸夸",
       "tags": [],
       "text": "我是纯路人 但是我真的觉得长得很帅而且跳舞也很好",
@@ -7221,7 +7212,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0803",
+      "id": "comment-0802",
       "category": "小羊语录",
       "tags": [],
       "text": "“各位姐姐们，从今往后，我的能力常常会出现你们的面孔呢”🙏🙏🙏",
@@ -7230,7 +7221,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0804",
+      "id": "comment-0803",
       "category": "小羊语录",
       "tags": [],
       "text": "“真正让你走远的，从来都是积极自律与勤奋”\n ——杨博文",
@@ -7239,7 +7230,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0805",
+      "id": "comment-0804",
       "category": "小羊语录",
       "tags": [],
       "text": "为什么这个夏天身上没有很多被蚊子叮过的痕迹呢？因为这个夏天，我不要蚊子喜欢，我只要你们喜歡👈👈👉👉",
@@ -7248,7 +7239,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0806",
+      "id": "comment-0805",
       "category": "小羊语录",
       "tags": [],
       "text": "“你将你的经历和情感像海似的浇灌在我身上，虽然不可能将这片海对等的当做回报滋润你，但总要让你看到，有无数个我生命中的浪花是因为你而起，是被你激起，最终会回到你的身边，成为你的慰籍”\n——杨博文",
@@ -7257,7 +7248,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0807",
+      "id": "comment-0806",
       "category": "小羊语录",
       "tags": [],
       "text": "“汗水与掌声相遇 一切都有了意义”\n ——杨博文",
@@ -7266,7 +7257,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0808",
+      "id": "comment-0807",
       "category": "小羊语录",
       "tags": [],
       "text": "“把每一次失败转化为前进的动力 不完美才有意义”\n ——杨博文",
@@ -7275,7 +7266,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0809",
+      "id": "comment-0808",
       "category": "粉丝碎碎念",
       "tags": [],
       "text": "杨博文，你一定要好好休息啊!不要该睡觉的时候慢悠悠，没时间睡觉的时候吵着睡觉!\n杨博文，你一定要好好准备公演啊!不要在该拿出状态时不尽力，没时间练习时再后悔!\n杨博文，你一定要好好准备公演啊!不要在该拿出状态时不尽力，没时间练习时再后悔!\n杨博文，你一定要好好准备考试啊!不要该学习时不想学，没时间学时干着急!\n杨博文，你一定要好好利用时间啊!不要时间多的时候不抓紧，没时间后生自己气！",
@@ -7284,7 +7275,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0810",
+      "id": "comment-0809",
       "category": "小羊语录",
       "tags": [],
       "text": "“今年最让我依赖的练习生 我就写我自己 靠人不如靠自己”",
@@ -7293,7 +7284,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0811",
+      "id": "comment-0810",
       "category": "小羊语录",
       "tags": [],
       "text": "“我会永远记住这个夏天 有汗水 有掌声 有你们”",
@@ -7302,7 +7293,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0812",
+      "id": "comment-0811",
       "category": "小羊语录",
       "tags": [],
       "text": "“天赋在努力面前不值一提”\n“满意但不满足”",
@@ -7311,7 +7302,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0813",
+      "id": "comment-0812",
       "category": "小羊语录",
       "tags": [],
       "text": "“最令我心动的，我觉得是在人海之中，看到非常耀眼的偏偏粉色”——杨博文",
@@ -7320,7 +7311,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0814",
+      "id": "comment-0813",
       "category": "小羊语录",
       "tags": [],
       "text": "“让我们成为彼此的底气吧”\n ——杨博文",
@@ -7329,7 +7320,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0815",
+      "id": "comment-0814",
       "category": "小羊语录",
       "tags": [],
       "text": "不不不！！哼唧~[求抱抱][求抱抱][求抱抱][求抱抱][求抱抱]",
@@ -7338,7 +7329,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0816",
+      "id": "comment-0815",
       "category": "小羊语录",
       "tags": [],
       "text": "哦啊啊耶~Duang Duang Duang~",
@@ -7347,7 +7338,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0817",
+      "id": "comment-0816",
       "category": "小羊语录",
       "tags": [],
       "text": "单手抵住唇[嘘]我叫杨博文 ~",
@@ -7356,7 +7347,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0818",
+      "id": "comment-0817",
       "category": "小羊语录",
       "tags": [],
       "text": "世界上有三种命 生命 要命 还有哥的迷死人不偿命 💰",
@@ -7365,7 +7356,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0819",
+      "id": "comment-0818",
       "category": "小羊语录",
       "tags": [],
       "text": "没有水的地方是沙漠 没有我的地方 叫寂寞！！！！！！！",
@@ -7374,7 +7365,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0820",
+      "id": "comment-0819",
       "category": "小羊语录",
       "tags": [],
       "text": "哥迷人的五官 就是你犯罪的开端[二哈][二哈]",
@@ -7383,7 +7374,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0821",
+      "id": "comment-0820",
       "category": "小羊语录",
       "tags": [],
       "text": "花会谢人会呆 哥的爱永远Never say goodbye 😊",
@@ -7392,7 +7383,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0822",
+      "id": "comment-0821",
       "category": "小羊语录",
       "tags": [],
       "text": "哥一个月工资1500 ，给你1314 ，剩下186是哥的身高 [杀马特]",
@@ -7401,7 +7392,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0823",
+      "id": "comment-0822",
       "category": "小羊语录",
       "tags": [],
       "text": "别对哥说6 哥会听成——I LOVE YOU 👄👄",
@@ -7410,7 +7401,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0824",
+      "id": "comment-0823",
       "category": "小羊语录",
       "tags": [],
       "text": "君子博学于文，约之于己。",
@@ -7419,7 +7410,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0825",
+      "id": "comment-0824",
       "category": "小羊语录",
       "tags": [],
       "text": "我叫杨博文，喜欢跳街舞，看书。我平时对老师同学挺有礼貌的，也乐于助人。我会一直做好自己，继续加油。",
@@ -7428,7 +7419,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0826",
+      "id": "comment-0825",
       "category": "小羊语录",
       "tags": [],
       "text": "大家好 我是TF练习生杨博文",
@@ -7437,7 +7428,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0827",
+      "id": "comment-0826",
       "category": "发疯抽象",
       "tags": [],
       "text": "歇斯底里是崩溃，底里歇斯是美味，博文和我要大富大贵[钱]",
@@ -7446,7 +7437,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0828",
+      "id": "comment-0827",
       "category": "发疯抽象",
       "tags": [],
       "text": "帅得的小女子我囧架架囧囧架~",
@@ -7455,7 +7446,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0829",
+      "id": "comment-0828",
       "category": "发疯抽象",
       "tags": [],
       "text": "拒绝此男 从你做起 我做不到😚",
@@ -7464,7 +7455,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0830",
+      "id": "comment-0829",
       "category": "发疯抽象",
       "tags": [],
       "text": "杨博文就很萌啊，人一但看过了杨博文，智商情商都会提高95%，烦恼也会消失95%。但问题来了，杨博文从哪里来？科学家却不肯说，只留下了一串莫名其妙的一句话：杨博文实在太萌了。",
@@ -7473,7 +7464,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0831",
+      "id": "comment-0830",
       "category": "发疯抽象",
       "tags": [],
       "text": "是我的错觉吗？感觉最近网上土味情话有点泛滥。。。算了，我只是弟弟的狗罢了，为什么要思考这么高深的问题",
@@ -7482,7 +7473,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0832",
+      "id": "comment-0831",
       "category": "发疯抽象",
       "tags": [],
       "text": "就是我们博文确实是这么帅，这个事情确实是发生了，也是很抱歉，这边给您补偿5个0元券您看可以吗？真的很不好意思哈，这边也是故意的，也确实没有认识到错误的，您看这样能行吗？[送心]",
@@ -7491,7 +7482,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0833",
+      "id": "comment-0832",
       "category": "发疯抽象",
       "tags": [],
       "text": "走在路上看了一下你的视频，眼睛里有光了，村里的老头以为天亮了，愣是起来耕了三亩地[奋斗]",
@@ -7500,7 +7491,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0834",
+      "id": "comment-0833",
       "category": "发疯抽象",
       "tags": [],
       "text": "那还说什么了 行 我一会嫁给你[如花]",
@@ -7509,7 +7500,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0835",
+      "id": "comment-0834",
       "category": "发疯抽象",
       "tags": [],
       "text": "真可恶啊，明明下载了国家反诈中心App，可还是被老公骗走了心",
@@ -7518,7 +7509,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0836",
+      "id": "comment-0835",
       "category": "发疯抽象",
       "tags": [],
       "text": "不是我说白了，说绿了，说蓝了，说紫了，说黑了，宝宝你怎么这么好看！！！！",
@@ -7527,7 +7518,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0837",
+      "id": "comment-0836",
       "category": "发疯抽象",
       "tags": [],
       "text": "混帐帅哥 乱我道心",
@@ -7536,7 +7527,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0838",
+      "id": "comment-0837",
       "category": "发疯抽象",
       "tags": [],
       "text": "我的蘑菇头正在留 鬼火正在凑钱买 现在也会梳中分了 全员恶人格子裤紧身衣紧身裤豆豆鞋我也都有了 花臂满身我已经纹好了 给我点时间请你不要爱上别人[杀马特]请你吃妙脆角▼▲►▼▲►▼▼▲▼▲►▼▲►▼▲►▼▲►▼▲►▼▼▲►▼►▼▲►▼▼▲►▼▲►▼▲►▼▼►▼▲►▼▲►▼▼▲▼▲►▼▲►▼►▼▲►▼▲►▼▲▲►▼▲►▼►▼▲▼▲►▼▲▲►▼►",
@@ -7545,7 +7536,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0839",
+      "id": "comment-0838",
       "category": "发疯抽象",
       "tags": [],
       "text": "一个人玩抖音吗？怕不怕？要不要加我微信我保护你[不你不想]",
@@ -7554,7 +7545,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0840",
+      "id": "comment-0839",
       "category": "发疯抽象",
       "tags": [],
       "text": "太美啦！他奶奶的鸡蛋舅六的哈密瓜妹妹的 大窝瓜爷爷的大鸡腿婶婶的大葡萄妈妈的黄瓜 菜爸爸的大面包三舅姥爷的大李子二婶的桃子 三叔的西瓜七舅姥爷的小荔枝二舅姥爷的火龙 果姑姑的猕猴桃祖爷爷的车厘子祖姥爷的大菠 萝奶祖奶的大榴莲二爷的小草莓他三婶姥姥大 的白菜他哥哥的大面条妹妹的小油菜弟弟的西 葫芦姐姐的大土豆姐夫的大青椒爷爷的大茄子 嗯啊，杀杀杀！！上勾拳！下勾拳！左勾拳！ 右勾拳！扫堂腿！回旋踢！这是蜘蛛吃耳屎， 这是龙卷风摧毁停车场！这是羚羊蹬，这是山 羊跳！乌鸦坐飞机！老鼠走迷宫！大象踢腿！ 愤怒的章鱼！巨斧砍大树！彻底疯狂！彻底疯 狂！彻底疯狂！彻底疯狂！彻底疯狂！",
@@ -7563,7 +7554,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0841",
+      "id": "comment-0840",
       "category": "发疯抽象",
       "tags": [],
       "text": "我搜全网最帅真给我弹这了！？",
@@ -7572,7 +7563,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0842",
+      "id": "comment-0841",
       "category": "发疯抽象",
       "tags": [],
       "text": "小羊宝宝 听说你发朋友圈，我早上5点起床，喂完鸡，从村里面坐了2个小时牛车，走了泥巴路半个小时，掏出来攒下来4块，在镇上的蜜雪冰城，点了杯柠檬水蹭了网，借了路人的手机，终于给你评论上了",
@@ -7581,7 +7572,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0843",
+      "id": "comment-0842",
       "category": "发疯抽象",
       "tags": [],
       "text": "很久没看见过这种帅哥视频了 根本不经过大脑的思考 毫无博弈可言 完全抛开了技巧 放弃了多余的思考 感觉每一次都完完全全处于本能 所有的操作都是来自于人类杀戮的本性 这才是纯粹的战斗 看着都感觉到酣畅淋漓 让我忘记了当今社会的尔虞我诈",
@@ -7590,7 +7581,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0844",
+      "id": "comment-0843",
       "category": "发疯抽象",
       "tags": [],
       "text": "笑死了，拍成这样也敢发出来，就不怕我原地610000度大旋转单膝跪地手捧鲜花嘴叼玫瑰直接求婚吗？",
@@ -7599,7 +7590,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0845",
+      "id": "comment-0844",
       "category": "发疯抽象",
       "tags": [],
       "text": "剑眉星眸 清新俊逸 挺鼻朱唇 英俊潇洒 风流倜傥 明眸皓齿 古雕刻画 貌若潘安 探扇浅笑 俊美无铸 风华绝代 英俊脸庞 面如冠玉 才貌双全",
@@ -7608,7 +7599,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0846",
+      "id": "comment-0845",
       "category": "发疯抽象",
       "tags": [],
       "text": "宝宝，我进厂子里打工，今天的任务是踩踏板，工头夸我踩的最快最好，他不知道我是按照想杨博文时的心跳节奏踩的",
@@ -7617,7 +7608,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0847",
+      "id": "comment-0846",
       "category": "发疯抽象",
       "tags": [],
       "text": "小蛋糕我把我的房子送你了 我的就是你的够不够排面🏡🏠🏘️🏩🏢🏬🏭🏤🏦🏣🏥🏨🏪💒🏫⛪🕍🕌🏰🏯️️️️️️️️️️",
@@ -7626,7 +7617,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0848",
+      "id": "comment-0847",
       "category": "发疯抽象",
       "tags": [],
       "text": "这还说啥了 我爸的女儿归你了 我哥的妹妹归你了 我爷的孙女归你了 我姥爷的外孙女归你了 我弟的姐姐归你了 我舅的外甥女归你了 我叔的侄女归你了 我老师的学生归你了[嘴唇]",
@@ -7635,7 +7626,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0849",
+      "id": "comment-0848",
       "category": "发疯抽象",
       "tags": [],
       "text": "也不是特别帅吧没必要硬夸感觉缺了点什么手上戴点东西的话会更好看比如我们的婚戒[右边][左边]",
@@ -7644,7 +7635,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0850",
+      "id": "comment-0849",
       "category": "发疯抽象",
       "tags": [],
       "text": "帅哥你好，刚才我宾利的车钥匙掉到我那辆法拉利的座位底下了 我捞了半天结果把我的卡地亚钻表上面的钻石都磕掉了好几粒 害得我又回到汤臣一品拿了戴森无绳吸尘器把它们吸出来了，那现在我们聊点啥呢",
@@ -7653,7 +7644,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0851",
+      "id": "comment-0850",
       "category": "发疯抽象",
       "tags": [],
       "text": "太帅了，我本来在耕田的，一看到你的视频跟打了鸡血一样，一脚把牛踢开了，自己耕了20亩",
@@ -7662,7 +7653,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0852",
+      "id": "comment-0851",
       "category": "发疯抽象",
       "tags": [],
       "text": "人怎么会是一只软软小羊，真的杨博文如果是小羊的话，就像是棉花糖一样的宝宝小羊，家羊因为是小孩形态，所以还是松松软软的一团团，太可爱了…说实话家羊也知道自己可爱的吧？本人不知道自己可爱的话那就不像话了，太卡瓦了，跳舞的时候唱歌的时候饭撒的时候无时无刻在散发美萌气息啊，完全妈妈的好小羊…",
@@ -7671,7 +7662,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0853",
+      "id": "comment-0852",
       "category": "发疯抽象",
       "tags": [],
       "text": "这是我老公我先生我丈夫我良人我郎君我官人我相公我亲爱的我孩他爸我爱人我对象我老伴我宝宝我夫君我当家的我掌柜的我男人我欧巴我爸爸我小奶狗我心肝我枕边人我意中人我男朋友我老公我相亲对象我亲爱的我baby我小可爱我乖乖我哥哥我驸马爷我男神我掌上明珠我霸道总裁我小狗我情人我Crush我法定伴侣我新郎",
@@ -7680,7 +7671,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0854",
+      "id": "comment-0853",
       "category": "发疯抽象",
       "tags": [],
       "text": "看见这个视频我要感谢我的母亲，我的父亲，我的爷爷，我的奶奶，我的手机，我的耳机，我的电脑，我的板凳，我的桌子，我的流量，我的床，我的水杯，我的早饭，我的午饭，我的晚饭，我的宵夜，以及我的抖音[抱拳][抱拳][抱拳]",
@@ -7689,7 +7680,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0855",
+      "id": "comment-0854",
       "category": "发疯抽象",
       "tags": [],
       "text": "杨博文刚出生的时候 爸爸妈妈问医生是男孩还是女孩 医生回答说是爱豆",
@@ -7698,7 +7689,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0856",
+      "id": "comment-0855",
       "category": "发疯抽象",
       "tags": [],
       "text": "我的酒量大概就是：八瓶香槟、七瓶伏特加、六瓶野格、五瓶威士忌、四瓶杰克丹尼、三瓶朗姆、两瓶生命之水，或者杨博文的一声：小狗， 过来！",
@@ -7707,7 +7698,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0857",
+      "id": "comment-0856",
       "category": "发疯抽象",
       "tags": [],
       "text": "杨博文什么都知道 他知道粉丝对他沉甸甸的爱❤️也请大家一起一直爱他吧",
@@ -7716,7 +7707,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0858",
+      "id": "comment-0857",
       "category": "发疯抽象",
       "tags": [],
       "text": "我劝你们还是喜欢杨博文吧。曾经有位科学家做了实验，把一个喜欢的人和一个普通人一起从天台扔下去，喜欢杨博文的人看到杨博文帅成这样直接原地飞天，那个普通人直接被吓到当场坐下。这就是喜欢杨博文的好处。从小喜欢杨博文真的比什么都重要。",
@@ -7725,7 +7716,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0859",
+      "id": "comment-0858",
       "category": "发疯抽象",
       "tags": [],
       "text": "就这样使劲扭博文，扭到驿站给妈妈取两个快递",
@@ -7734,7 +7725,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0860",
+      "id": "comment-0859",
       "category": "发疯抽象",
       "tags": [],
       "text": "做杨博文一体机的快乐是其他家公公和嬷嬷永远都体会不到的。帅的时候是老公，美的时候是老婆，美萌的时候是女儿，呆萌的时候是儿子，性感的时候是妈妈，强势的时候是爸爸，丑的时候是sorry根本没有丑的时候好吧！",
@@ -7743,7 +7734,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0861",
+      "id": "comment-0860",
       "category": "发疯抽象",
       "tags": [],
       "text": "天塌下来了，我就问老天爷，难道你不喜欢杨博文吗？？？？",
@@ -7752,7 +7743,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0862",
+      "id": "comment-0861",
       "category": "发疯抽象",
       "tags": [],
       "text": "让我嫁给他 就算住豪宅开豪车我也愿意[流泪]",
@@ -7761,7 +7752,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0863",
+      "id": "comment-0862",
       "category": "发疯抽象",
       "tags": [],
       "text": "现在站在你面前的是国际男团BTS的同期EXO的国内对手 TFBOYS的师弟  TNT的师弟TOP的师弟TF家族五代的师哥幻梦都破碎本人杨博文！",
@@ -7770,7 +7761,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0864",
+      "id": "comment-0863",
       "category": "发疯抽象",
       "tags": [],
       "text": "萌物中的萌物 萌物中的统治者 萌物之主 萌物的终结者 萌王 萌师 萌神 压倒性萌物 萌物史上永垂不朽的巅峰",
@@ -7779,7 +7770,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0865",
+      "id": "comment-0864",
       "category": "发疯抽象",
       "tags": [],
       "text": "我钓鱼20余年，没见过这种鱼钩，杨博文轻轻一放鱼钩，我就上钩了",
@@ -7788,7 +7779,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0866",
+      "id": "comment-0865",
       "category": "发疯抽象",
       "tags": [],
       "text": "建议医学界研究“杨博文效应”——看完他舞台后患者普遍出现：瞳孔放大（被帅的）、手脚蜷缩（被撩的）、间歇性傻笑（被甜的），临床诊断为“无药可救但很快乐”。",
@@ -7797,7 +7788,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0867",
+      "id": "comment-0866",
       "category": "发疯抽象",
       "tags": [],
       "text": "我家博博简直是超完美的小朋友，身高完美身材完美长相完美手指完美性格完美，据说身上香香的也特别完美，跳舞完美唱歌完美哪哪都完美[可怜] 好烦怎么那么喜欢我博博[可怜][可怜]",
@@ -7806,7 +7797,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0868",
+      "id": "comment-0867",
       "category": "发疯抽象",
       "tags": [],
       "text": "杨博文为什么不能是我的孩子[舔屏][舔屏]",
@@ -7815,7 +7806,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0869",
+      "id": "comment-0868",
       "category": "发疯抽象",
       "tags": [],
       "text": "（疯狂截图）这个危险的男人我要让全世界知道！",
@@ -7824,7 +7815,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0870",
+      "id": "comment-0869",
       "category": "发疯抽象",
       "tags": [],
       "text": "双子男就这样一直勾引一直going我[泣不成声]",
@@ -7833,7 +7824,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0871",
+      "id": "comment-0870",
       "category": "发疯抽象",
       "tags": [],
       "text": "我好歹也是个女人啊……怎么对我一点防备都没有",
@@ -7842,7 +7833,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0872",
+      "id": "comment-0871",
       "category": "发疯抽象",
       "tags": [],
       "text": "看到杨博文我就神清气爽 心旷神怡 百病全消 喜上眉梢 心花怒放 如沐春风 欢欣鼓舞 魂牵梦萦 目不转睛 欣喜若狂 陶然忘机 一见倾心 情有独钟 感心动魄 念念不忘 心驰神往 如痴如醉 乐以忘忧 如饮甘露 飘飘欲仙 神魂颠倒 意乱情迷 血脉贲张 击节赞叹 寤寐思服 倾慕不已",
@@ -7851,7 +7842,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0873",
+      "id": "comment-0872",
       "category": "发疯抽象",
       "tags": [],
       "text": "姨都是奔3的人了，每天上班累的腰酸背痛，精神萎靡[捂脸][捂脸][捂脸]，没想到刷抖音还能刷这样的大宝贝[爱心][爱心][爱心]，看的姨心都化了[玫瑰][玫瑰]",
@@ -7860,7 +7851,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0874",
+      "id": "comment-0873",
       "category": "发疯抽象",
       "tags": [],
       "text": "时代峰峻你拐卖我的孩子[流泪][流泪][流泪][流泪]",
@@ -7869,7 +7860,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0875",
+      "id": "comment-0874",
       "category": "发疯抽象",
       "tags": [],
       "text": "好美啊，好帅啊，好纯啊，好欲啊，我不行了，爱惨你了啊！",
@@ -7878,7 +7869,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0876",
+      "id": "comment-0875",
       "category": "发疯抽象",
       "tags": [],
       "text": "听说了嘛？时代峰峻来了一个踢馆男孩，据说名字叫舒肤佳，因此时代峰峻为了孩子就一直让他努力学习，别人想他了就在外面大声喊咩咩咩",
@@ -7887,7 +7878,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0877",
+      "id": "comment-0876",
       "category": "发疯抽象",
       "tags": [],
       "text": "我的少女时代有非常严重的恋羊癖，我就是喜欢叫杨博文叫欧巴，就是喜欢年下男，每天想杨博文爱杨博文，羊儿好帅，吃饭的时候想，睡觉的时候想羊儿，在干什么都想，于是我许愿要多多和羊儿见面，可是见面哭不见也哭，太喜欢羊儿了，眼泪哭干也要喜欢。",
@@ -7896,7 +7887,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0878",
+      "id": "comment-0877",
       "category": "发疯抽象",
       "tags": [],
       "text": "姐妹你放心，我这次真的不会被时代峰峻骗钱了，我装作被他迷的神魂颠倒，只是我计划的一部分。你别说，我有我自己的节奏[憨笑]",
@@ -7905,7 +7896,7 @@
       "weight": 3
     },
     {
-      "id": "comment-0879",
+      "id": "comment-0878",
       "category": "发疯抽象",
       "tags": [],
       "text": "这个视频只看一遍，老自一遍，老己一遍，老子一遍，我一遍，俺一遍，额一遍，吾一遍，余一遍，寡人一遍，鄙人一遍，朕一遍，洒家一遍，小的一遍，me一遍，myself一遍，最后自罚一遍。",
@@ -8908,6 +8899,33 @@
       "category": "通用",
       "tags": [],
       "text": "杨博文 唯一C位队长 杨博文 唯一C位队长 杨博文 唯一C位队长",
+      "enabled": true,
+      "purpose": "danmuku",
+      "weight": 2
+    },
+    {
+      "id": "danmuku-0112",
+      "category": "通用",
+      "tags": [],
+      "text": "律动框架好绝啊",
+      "enabled": true,
+      "purpose": "danmuku",
+      "weight": 2
+    },
+    {
+      "id": "danmuku-0113",
+      "category": "通用",
+      "tags": [],
+      "text": "彻底疯狂！杨博文你是最帅的！",
+      "enabled": true,
+      "purpose": "danmuku",
+      "weight": 2
+    },
+    {
+      "id": "danmuku-0114",
+      "category": "通用",
+      "tags": [],
+      "text": "重刷第601遍，这个真的好绝啊😭",
       "enabled": true,
       "purpose": "danmuku",
       "weight": 2
