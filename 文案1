@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-14T11:58:55.533Z",
+  "updatedAt": "2026-05-15T11:22:48.781Z",
   "templates": [
     {
       "id": "comment-0001",
@@ -8926,6 +8926,51 @@
       "category": "通用",
       "tags": [],
       "text": "重刷第601遍，这个真的好绝啊😭",
+      "enabled": true,
+      "purpose": "danmuku",
+      "weight": 2
+    },
+    {
+      "id": "danmuku-0115",
+      "category": "通用",
+      "tags": [],
+      "text": "杨博文NB",
+      "enabled": true,
+      "purpose": "danmuku",
+      "weight": 2
+    },
+    {
+      "id": "danmuku-0116",
+      "category": "通用",
+      "tags": [],
+      "text": "杨博文舞神来的吧！！",
+      "enabled": true,
+      "purpose": "danmuku",
+      "weight": 2
+    },
+    {
+      "id": "danmuku-0117",
+      "category": "通用",
+      "tags": [],
+      "text": "为杨博文而来[打call][打call][打call]",
+      "enabled": true,
+      "purpose": "danmuku",
+      "weight": 2
+    },
+    {
+      "id": "danmuku-0118",
+      "category": "通用",
+      "tags": [],
+      "text": "杨博文NB杨博文NB杨博文NB",
+      "enabled": true,
+      "purpose": "danmuku",
+      "weight": 2
+    },
+    {
+      "id": "danmuku-0119",
+      "category": "通用",
+      "tags": [],
+      "text": "还得是杨博文还得是杨博文还得是杨博文",
       "enabled": true,
       "purpose": "danmuku",
       "weight": 2
