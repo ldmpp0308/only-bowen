@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-15T11:22:48.781Z",
+  "updatedAt": "2026-05-15T13:02:36.570Z",
   "templates": [
     {
       "id": "comment-0001",
@@ -654,7 +654,7 @@
       "id": "comment-0073",
       "category": "夸跳舞",
       "tags": [],
-      "text": "感觉这个男孩的舞蹈跳得很好，很有嚼劲，虽然我不是他的粉丝，但是我感觉（预测）他会出道的，这个男孩很有潜力和气质，如果不懈怠舞蹈室练习，他肯定会闯出自己的一片天！我预祝他加油，出道！ヾ(◍°∇°◍)ﾉﾞ",
+      "text": "感觉这个男孩的舞蹈跳得很好，很有嚼劲，虽然我不是他的粉丝，但是我感觉（预测）他会出道的，这个男孩很有潜力和气质，如果不懈怠舞蹈室练习，他肯定会闯出自己的一片天！我预祝他加油，出道！[呲牙]",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -1410,7 +1410,7 @@
       "id": "comment-0157",
       "category": "夸跳舞",
       "tags": [],
-      "text": "原来是杨博文啊 害我搜了一晚上451🥰🥰",
+      "text": "原来是杨博文啊 害我搜了一晚上451😍😍",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -7905,6 +7905,87 @@
       "weight": 3
     },
     {
+      "id": "comment-0879",
+      "category": "维权-打击私生",
+      "tags": [],
+      "text": "请公司扛起该有的责任，严厉抵制私生侵扰❗️",
+      "enabled": true,
+      "purpose": "comment",
+      "weight": 3
+    },
+    {
+      "id": "comment-0880",
+      "category": "维权-区别对待",
+      "tags": [],
+      "text": "请停止对杨博文区别对待，拒绝双标敷衍❗️❗️❗️\n请停止对杨博文区别对待，拒绝双标敷衍❗️❗️❗️",
+      "enabled": true,
+      "purpose": "comment",
+      "weight": 3
+    },
+    {
+      "id": "comment-0881",
+      "category": "维权-打击私生",
+      "tags": [],
+      "text": "必须全力保护杨博文的人身安全❗❗\n必须全力保护杨博文的人身安全❗❗\n必须全力保护杨博文的人身安全❗❗",
+      "enabled": true,
+      "purpose": "comment",
+      "weight": 3
+    },
+    {
+      "id": "comment-0882",
+      "category": "维权-打击私生",
+      "tags": [],
+      "text": "你们到底有没有提前做过安全预案❓❗️\n杨博文的安保是摆样子的吗❓❗️",
+      "enabled": true,
+      "purpose": "comment",
+      "weight": 3
+    },
+    {
+      "id": "comment-0883",
+      "category": "维权-打击私生",
+      "tags": [],
+      "text": "保护好杨博文❗❗❗\n保护好杨博文❗❗❗",
+      "enabled": true,
+      "purpose": "comment",
+      "weight": 3
+    },
+    {
+      "id": "comment-0884",
+      "category": "维权-区别对待",
+      "tags": [],
+      "text": "拒绝区别对待❗️❗❗\n还杨博文应得的曝光与营业❗️❗️❗️",
+      "enabled": true,
+      "purpose": "comment",
+      "weight": 3
+    },
+    {
+      "id": "comment-0885",
+      "category": "维权-区别对待",
+      "tags": [],
+      "text": "拒绝无故消失❗️拒绝边缘化❗️杨博文必须拥有正常待遇❗️",
+      "enabled": true,
+      "purpose": "comment",
+      "weight": 3
+    },
+    {
+      "id": "comment-0886",
+      "category": "维权-打击私生",
+      "tags": [],
+      "text": "请立刻回应工作人员的失职问题❗",
+      "enabled": true,
+      "purpose": "comment",
+      "weight": 3
+    },
+    {
+      "id": "comment-0887",
+      "category": "维权-打击私生",
+      "tags": [],
+      "text": "拒绝漠视处理❗️必须正面回应❗️保障杨博文人身安全❗",
+      "enabled": true,
+      "purpose": "comment",
+      "weight": 3
+    },
+    {
       "id": "danmuku-0001",
       "category": "通用",
       "tags": [],
@@ -8547,7 +8628,7 @@
       "id": "danmuku-0072",
       "category": "通用",
       "tags": [],
-      "text": "原来是杨博文啊 害我搜了一晚上451🥰🥰🥰",
+      "text": "原来是杨博文啊 害我搜了一晚上451[呲牙]",
       "enabled": true,
       "purpose": "danmuku",
       "weight": 2
@@ -8601,7 +8682,7 @@
       "id": "danmuku-0078",
       "category": "通用",
       "tags": [],
-      "text": "哇这孩子可以啊",
+      "text": "哇杨博文可以啊",
       "enabled": true,
       "purpose": "danmuku",
       "weight": 2
@@ -8934,7 +9015,7 @@
       "id": "danmuku-0115",
       "category": "通用",
       "tags": [],
-      "text": "杨博文NB",
+      "text": "杨博文NB！！！",
       "enabled": true,
       "purpose": "danmuku",
       "weight": 2
@@ -8971,6 +9052,51 @@
       "category": "通用",
       "tags": [],
       "text": "还得是杨博文还得是杨博文还得是杨博文",
+      "enabled": true,
+      "purpose": "danmuku",
+      "weight": 2
+    },
+    {
+      "id": "danmuku-0120",
+      "category": "通用",
+      "tags": [],
+      "text": "爱上杨博文人之常情~",
+      "enabled": true,
+      "purpose": "danmuku",
+      "weight": 2
+    },
+    {
+      "id": "danmuku-0121",
+      "category": "通用",
+      "tags": [],
+      "text": "杨博文NBNBNBNBNB！！！",
+      "enabled": true,
+      "purpose": "danmuku",
+      "weight": 2
+    },
+    {
+      "id": "danmuku-0122",
+      "category": "通用",
+      "tags": [],
+      "text": "大主舞闪亮登场！✨",
+      "enabled": true,
+      "purpose": "danmuku",
+      "weight": 2
+    },
+    {
+      "id": "danmuku-0123",
+      "category": "通用",
+      "tags": [],
+      "text": "我的眼睛完全离不开杨博文啊😍",
+      "enabled": true,
+      "purpose": "danmuku",
+      "weight": 2
+    },
+    {
+      "id": "danmuku-0124",
+      "category": "通用",
+      "tags": [],
+      "text": "杨队杨队杨队杨队杨队杨队杨队杨队杨队杨队杨队杨队杨队杨队杨队杨队杨队杨队杨队杨队",
       "enabled": true,
       "purpose": "danmuku",
       "weight": 2
