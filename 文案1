@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-15T13:02:36.570Z",
+  "updatedAt": "2026-05-16T09:55:19.814Z",
   "templates": [
     {
       "id": "comment-0001",
@@ -231,7 +231,7 @@
       "id": "comment-0026",
       "category": "夸跳舞",
       "tags": [],
-      "text": "爱你爱你爱你哦",
+      "text": "小羊我们爱你爱你爱你哦",
       "enabled": true,
       "purpose": "comment",
       "weight": 1
@@ -1473,7 +1473,7 @@
       "id": "comment-0164",
       "category": "夸跳舞",
       "tags": [],
-      "text": "欧巴你好帅😍",
+      "text": "杨博文欧巴你好帅😍",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -7986,6 +7986,141 @@
       "weight": 3
     },
     {
+      "id": "comment-0888",
+      "category": "B站安利-舞台",
+      "tags": [],
+      "text": "欢迎大家来了解杨博文，风格百变实力断层还特别宠粉的爱豆一枚💗【四代第一且断层主舞】💕【“幻梦都破碎”实力出圈者】💕【10年舞龄】💕\n个人简介：^\n👑Dance Vision少儿组亚军获得者\n👨🏻曾是嘉禾舞社精英队成员\n🐾WOD世界街舞大赛参与者\n🕺🏻擅长街舞，舞台圣体，绝对实力，C位美学\n☝🏻四代考核舞蹈连续第一\n«N+1个抖音百万舞蹈单人cha拥有者，多个破200万\n荣耀之战B站单人直拍播放数据四代第1️⃣»\n\n部分个人直拍有：\n【Hey Mama】 https://www.bilibili.com/video/BV1A5vkB2E1k/?share_source=copy_web&vd_source=686047a7f575ec80a969b7b424ba0565\n【Lucifer】 https://www.bilibili.com/video/BV1BmttzwExF/?share_source=copy_web&vd_source=686047a7f575ec80a969b7b424ba0565\n【Deja Vu】 https://www.bilibili.com/video/BV1vFtYzzEoN/?share_source=copy_web&vd_source=686047a7f575ec80a969b7b424ba0565\n【Guilty】 https://www.bilibili.com/video/BV1VQwTeuEe1/?share_source=copy_web&vd_source=686047a7f575ec80a969b7b424ba0565\n【whywhywhy】 https://www.bilibili.com/video/BV1qy64BBE9T/?share_source=copy_web&vd_source=686047a7f575ec80a969b7b424ba0565\n【GGUM】 https://www.bilibili.com/video/BV1fnDsYPEb6/?share_source=copy_web&vd_source=686047a7f575ec80a969b7b424ba0565",
+      "enabled": true,
+      "purpose": "comment",
+      "weight": 3
+    },
+    {
+      "id": "comment-0889",
+      "category": "夸跳舞",
+      "tags": [],
+      "text": "你问杨博文吗？是抖音舞蹈cha n支点赞破百万的杨博文，是全舞种都笑纳的杨博文，是靠舞蹈实力挽回路人风评内娱韩舞拥有者杨博文。杨博文要核心有核心，要力度有力度，要舞商有舞商。",
+      "enabled": true,
+      "purpose": "comment",
+      "weight": 3
+    },
+    {
+      "id": "comment-0890",
+      "category": "夸跳舞",
+      "tags": [],
+      "text": "我的妈呀这真的是sdfj的练习生吗？",
+      "enabled": true,
+      "purpose": "comment",
+      "weight": 3
+    },
+    {
+      "id": "comment-0891",
+      "category": "物料控评",
+      "tags": [],
+      "text": "以实力为刃🎀一举撕开四代帷幕💝🌷以人气为冕💘登台即是焦点中心💝@TF家族-杨博文YBW 👑用数据断层与舞台统治力宣告🥳荣耀盛典💗只为见证王者加冕💫",
+      "enabled": true,
+      "purpose": "comment",
+      "weight": 2
+    },
+    {
+      "id": "comment-0892",
+      "category": "物料控评",
+      "tags": [],
+      "text": "💒不许往下看了🔥看这里‼️舞蹈考永第一✔ΝΟ.1💘清冷甜美颜值不掉帧💖舞台「Rover」精彩出圈💓表管与实力并存💕早已不是同一level🎀原来是@TF家族-杨博文YBW 💕💞",
+      "enabled": true,
+      "purpose": "comment",
+      "weight": 2
+    },
+    {
+      "id": "comment-0893",
+      "category": "物料控评",
+      "tags": [],
+      "text": "个人𝑪𝒉𝒂和直拍数据持续领跑四代☝🏻🎀让爱与实力同频共振💗波纹与共💗来见证暴风成长的无限可能@TF家族-杨博文YBW",
+      "enabled": true,
+      "purpose": "comment",
+      "weight": 2
+    },
+    {
+      "id": "comment-0894",
+      "category": "物料控评",
+      "tags": [],
+      "text": "【四代唯一C位】舞蹈实力断层💓表管满分💯💘你想要的样子他都有💗欢迎沉浸式进入@TF家族-杨博文YBW 的舞台世界💫",
+      "enabled": true,
+      "purpose": "comment",
+      "weight": 2
+    },
+    {
+      "id": "comment-0895",
+      "category": "物料控评",
+      "tags": [],
+      "text": "每一帧都是舞台高光时刻💖舞台因他而定义高级质感🎀快来pick✨【四代最好的养成系第一主舞】@TF家族-杨博文YBW",
+      "enabled": true,
+      "purpose": "comment",
+      "weight": 2
+    },
+    {
+      "id": "comment-0896",
+      "category": "物料控评",
+      "tags": [],
+      "text": "💗喜欢努力上进的孩子吗？那就来粉杨博文💗喜欢温柔细腻又清醒有目标，不说脏话不玩网梗温温柔柔又有反差萌的男孩子吗，那就来粉杨博文💗想要一个又美又帅的孩子吗，那就来粉杨博文💗零黑料，零道歉信，多次正向出圈扭转路人缘，内核强大，四代第一断层主舞，抖音平台舞蹈cha多次破百万，四代唯一拥有两个200wcha的人💗跳舞时老公，物料里就是萌萌的小羊，宠粉又可爱，还是一体机福利💗半工半读中考差31分满分，即使是在高中的高压情况下，也能保持初心用最沉稳的态度面对学习与工作，从不躲避自己的短板，一直在进步💗快来粉小羊，加入快乐羊国吧！",
+      "enabled": true,
+      "purpose": "comment",
+      "weight": 2
+    },
+    {
+      "id": "comment-0897",
+      "category": "物料控评",
+      "tags": [],
+      "text": "小羊真棒💓💓💓小羊真棒💓💓💓小羊真棒💓💓💓小羊真棒💓💓💓小羊真棒💓💓💓小羊真棒💓💓💓小羊真棒💓💓",
+      "enabled": true,
+      "purpose": "comment",
+      "weight": 2
+    },
+    {
+      "id": "comment-0898",
+      "category": "维权-区别对待",
+      "tags": [],
+      "text": "💕实力配位天经地义💗公平对待理所应当💢每一份努力都不该被边缘化❗️❗️拒绝舞台站位镶边漠视‼️‼️实力不该被埋没，站位必须匹配真实能力💗@TF家族-杨博文YBW💖",
+      "enabled": true,
+      "purpose": "comment",
+      "weight": 2
+    },
+    {
+      "id": "comment-0899",
+      "category": "维权-区别对待",
+      "tags": [],
+      "text": "💕镜头稀缺何来曝光💘敷衍待遇怎谈发展⁉️四代标杆的应有荣光☝🏻💕为何实力TOP却活在镜头盲区💕反对恶意压制忽视‼️坚决维权‼️‼️落实正常待遇💢@TF家族-杨博文YBW💖",
+      "enabled": true,
+      "purpose": "comment",
+      "weight": 2
+    },
+    {
+      "id": "comment-0900",
+      "category": "维权-区别对待",
+      "tags": [],
+      "text": "💗‼️正视消费者呼声，归还杨博文应有待遇❗杨博文粉丝长期投入大量时间氪金💖💕，杨博文的高会番位不曾掉出前三‼️我们有权要求你司给予杨博文应有的【中心站位】、【单人曝光】及【营业待遇】❗💓",
+      "enabled": true,
+      "purpose": "comment",
+      "weight": 2
+    },
+    {
+      "id": "comment-0901",
+      "category": "维权-区别对待",
+      "tags": [],
+      "text": "💓💓【人气实力top】镶边❓💕杨博文为你司带来巨大的热度话题量以及良好口碑，却被你司不断打压，简直天理难容‼️‼️‼️杨博文粉丝拒绝【边角站位】❗拒绝【敷衍营业】❗拒绝【倒数曝光量】❗归还杨博文应有待遇，补偿杨博文缺失的相应曝光💖💖",
+      "enabled": true,
+      "purpose": "comment",
+      "weight": 2
+    },
+    {
+      "id": "comment-0902",
+      "category": "维权-区别对待",
+      "tags": [],
+      "text": "💖🩷养成系口碑摇摇欲坠，幕后始作俑者便是你司自己❗❗❗对于【正统养成系偶像预备役】杨博文💗，你司采取的态度是一再打压，站位镶边、曝光垫底、待遇不公，到底意欲何为❓💕杨博文粉丝不断要求归还杨博文应有待遇，你司只会装④，又是意欲何为⁉️⁉️请立即给予我方相应的答复❗❗💗",
+      "enabled": true,
+      "purpose": "comment",
+      "weight": 2
+    },
+    {
       "id": "danmuku-0001",
       "category": "通用",
       "tags": [],
@@ -8007,7 +8142,7 @@
       "id": "danmuku-0003",
       "category": "通用",
       "tags": [],
-      "text": "爱你爱你爱你哦",
+      "text": "小羊我们爱你爱你爱你哦",
       "enabled": true,
       "purpose": "danmuku",
       "weight": 1
@@ -8016,7 +8151,7 @@
       "id": "danmuku-0004",
       "category": "通用",
       "tags": [],
-      "text": "啊啊啊啊啊啊啊",
+      "text": "啊啊啊啊啊啊啊小羊~",
       "enabled": true,
       "purpose": "danmuku",
       "weight": 1
@@ -8070,7 +8205,7 @@
       "id": "danmuku-0010",
       "category": "通用",
       "tags": [],
-      "text": "给我宝宝全世界",
+      "text": "给我小羊宝宝全世界",
       "enabled": true,
       "purpose": "danmuku",
       "weight": 1
@@ -8097,7 +8232,7 @@
       "id": "danmuku-0013",
       "category": "通用",
       "tags": [],
-      "text": "行吧我承认我被你萌到了",
+      "text": "行吧杨博文我承认我被你萌到了",
       "enabled": true,
       "purpose": "danmuku",
       "weight": 1
@@ -8169,7 +8304,7 @@
       "id": "danmuku-0021",
       "category": "通用",
       "tags": [],
-      "text": "惊呆我",
+      "text": "惊呆我🐑",
       "enabled": true,
       "purpose": "danmuku",
       "weight": 1
@@ -8583,7 +8718,7 @@
       "id": "danmuku-0067",
       "category": "通用",
       "tags": [],
-      "text": "woc陷进这个视频出不来了",
+      "text": "woc陷进杨博文这个视频出不来了",
       "enabled": true,
       "purpose": "danmuku",
       "weight": 2
@@ -8601,7 +8736,7 @@
       "id": "danmuku-0069",
       "category": "通用",
       "tags": [],
-      "text": "[打call][打call][打call][打call][打call]",
+      "text": "ヾ(◍°∇°◍)ﾉﾞヾ(◍°∇°◍)ﾉﾞヾ(◍°∇°◍)ﾉﾞ",
       "enabled": true,
       "purpose": "danmuku",
       "weight": 2
@@ -8619,7 +8754,7 @@
       "id": "danmuku-0071",
       "category": "通用",
       "tags": [],
-      "text": "哇塞，有两把刷子啊。",
+      "text": "哇塞，杨博文有两把刷子啊。",
       "enabled": true,
       "purpose": "danmuku",
       "weight": 2
@@ -8628,7 +8763,7 @@
       "id": "danmuku-0072",
       "category": "通用",
       "tags": [],
-      "text": "原来是杨博文啊 害我搜了一晚上451[呲牙]",
+      "text": "原来是杨博文啊 害我搜了一晚上451⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄",
       "enabled": true,
       "purpose": "danmuku",
       "weight": 2
@@ -8718,7 +8853,7 @@
       "id": "danmuku-0082",
       "category": "通用",
       "tags": [],
-      "text": "求超越",
+      "text": "🐑求超越",
       "enabled": true,
       "purpose": "danmuku",
       "weight": 3
@@ -9097,6 +9232,33 @@
       "category": "通用",
       "tags": [],
       "text": "杨队杨队杨队杨队杨队杨队杨队杨队杨队杨队杨队杨队杨队杨队杨队杨队杨队杨队杨队杨队",
+      "enabled": true,
+      "purpose": "danmuku",
+      "weight": 2
+    },
+    {
+      "id": "danmuku-0125",
+      "category": "通用",
+      "tags": [],
+      "text": "杨博文四代第一断层主舞😎",
+      "enabled": true,
+      "purpose": "danmuku",
+      "weight": 2
+    },
+    {
+      "id": "danmuku-0126",
+      "category": "通用",
+      "tags": [],
+      "text": "杨博文四代第一断层主舞 杨博文四代第一断层主舞 杨博文四代第一断层主舞 杨博文四代第一断层主舞 杨博文四代第一断层主舞",
+      "enabled": true,
+      "purpose": "danmuku",
+      "weight": 2
+    },
+    {
+      "id": "danmuku-0127",
+      "category": "通用",
+      "tags": [],
+      "text": "我的妈呀这真的是sdfj的练习生吗？",
       "enabled": true,
       "purpose": "danmuku",
       "weight": 2
