@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-21T07:38:08.706Z",
+  "updatedAt": "2026-05-29T09:09:11.696Z",
   "templates": [
     {
       "id": "comment-0001",
@@ -9606,13 +9606,22 @@
       "weight": 2
     },
     {
+      "id": "danmuku-0144",
+      "category": "通用",
+      "tags": [],
+      "text": "🌷🌷🌷杨博文🌷🌷🌷杨博文🌷🌷🌷杨博文🌷🌷🌷杨博文🌷🌷🌷杨博文🌷🌷🌷杨博文🌷🌷🌷杨博文🌷🌷🌷杨博文🌷🌷🌷",
+      "enabled": true,
+      "purpose": "danmuku",
+      "weight": 2
+    },
+    {
       "id": "reply-0001",
       "category": "通用",
       "tags": [],
       "text": "upup",
       "enabled": true,
       "purpose": "reply",
-      "weight": 1
+      "weight": 2
     },
     {
       "id": "reply-0002",
@@ -9630,7 +9639,7 @@
       "text": "up",
       "enabled": true,
       "purpose": "reply",
-      "weight": 1
+      "weight": 2
     },
     {
       "id": "reply-0004",
@@ -9735,7 +9744,7 @@
       "id": "reply-0015",
       "category": "通用",
       "tags": [],
-      "text": "一人给小羊送一句走心的2026的祝福吧🌹",
+      "text": "一人给小羊送一句走心祝福吧🌷🌷🌷",
       "enabled": true,
       "purpose": "reply",
       "weight": 3
@@ -10086,7 +10095,25 @@
       "id": "reply-0054",
       "category": "通用",
       "tags": [],
-      "text": "杨博文天才爱豆",
+      "text": "杨博文天才爱豆🌷🌷🌷",
+      "enabled": true,
+      "purpose": "reply",
+      "weight": 2
+    },
+    {
+      "id": "reply-0055",
+      "category": "通用",
+      "tags": [],
+      "text": "我宝最棒upupup",
+      "enabled": true,
+      "purpose": "reply",
+      "weight": 2
+    },
+    {
+      "id": "reply-0056",
+      "category": "通用",
+      "tags": [],
+      "text": "杨博文",
       "enabled": true,
       "purpose": "reply",
       "weight": 2
