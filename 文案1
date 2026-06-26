@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-11T11:10:20.806Z",
+  "updatedAt": "2026-06-26T07:36:15.575Z",
   "templates": [
     {
       "id": "comment-0001",
@@ -5127,7 +5127,7 @@
       "id": "comment-0570",
       "category": "粉丝碎碎念",
       "tags": [],
-      "text": "看到你为了舞台复出了那么多，妈咪只希望你能平安健康。",
+      "text": "看到你为了舞台付出了那么多，妈咪只希望你能平安健康。",
       "enabled": true,
       "purpose": "comment",
       "weight": 3
@@ -8508,6 +8508,15 @@
       "weight": 61
     },
     {
+      "id": "comment-0946",
+      "category": "抽象土味",
+      "tags": [],
+      "text": "哥哥好帅(踢走其他小狗)(跑到面前摇尾巴)(又有其他小狗来)(和其他小狗打架)(踢走其他小狗)(满身伤痕摇尾巴)",
+      "enabled": true,
+      "purpose": "comment",
+      "weight": 61
+    },
+    {
       "id": "danmuku-0001",
       "category": "通用",
       "tags": [],
@@ -9186,7 +9195,7 @@
       "id": "danmuku-0076",
       "category": "通用",
       "tags": [],
-      "text": "我每条都好喜欢。我靠啊",
+      "text": "杨博文的每每个镜头我都好喜欢。我靠啊",
       "enabled": true,
       "purpose": "danmuku",
       "weight": 2
@@ -9195,7 +9204,7 @@
       "id": "danmuku-0077",
       "category": "通用",
       "tags": [],
-      "text": "欧巴你好帅😍",
+      "text": "博文欧巴你好帅😍",
       "enabled": true,
       "purpose": "danmuku",
       "weight": 2
@@ -9510,7 +9519,7 @@
       "id": "danmuku-0112",
       "category": "通用",
       "tags": [],
-      "text": "律动框架好绝啊",
+      "text": "杨博文好绝啊",
       "enabled": true,
       "purpose": "danmuku",
       "weight": 2
@@ -9528,7 +9537,7 @@
       "id": "danmuku-0114",
       "category": "通用",
       "tags": [],
-      "text": "重刷第601遍，这个真的好绝啊😭",
+      "text": "重刷第601遍，这个杨博文真的好绝啊😭",
       "enabled": true,
       "purpose": "danmuku",
       "weight": 2
@@ -9546,7 +9555,7 @@
       "id": "danmuku-0116",
       "category": "通用",
       "tags": [],
-      "text": "杨博文舞神来的吧！！",
+      "text": "杨博文神来的吧！！",
       "enabled": true,
       "purpose": "danmuku",
       "weight": 2
@@ -9594,7 +9603,7 @@
       "text": "杨博文NBNBNBNBNB！！！",
       "enabled": true,
       "purpose": "danmuku",
-      "weight": 2
+      "weight": 5
     },
     {
       "id": "danmuku-0122",
@@ -9612,7 +9621,7 @@
       "text": "我的眼睛完全离不开杨博文啊😍",
       "enabled": true,
       "purpose": "danmuku",
-      "weight": 2
+      "weight": 5
     },
     {
       "id": "danmuku-0124",
@@ -9621,7 +9630,7 @@
       "text": "杨队杨队杨队杨队杨队杨队杨队杨队杨队杨队杨队杨队杨队杨队杨队杨队杨队杨队杨队杨队",
       "enabled": true,
       "purpose": "danmuku",
-      "weight": 2
+      "weight": 5
     },
     {
       "id": "danmuku-0125",
@@ -9630,7 +9639,7 @@
       "text": "杨博文四代唯一断层主舞😎",
       "enabled": true,
       "purpose": "danmuku",
-      "weight": 2
+      "weight": 5
     },
     {
       "id": "danmuku-0126",
@@ -9639,7 +9648,7 @@
       "text": "杨博文四代唯一断层主舞 杨博文四代唯一断层主舞 杨博文四代唯一断层主舞 杨博文四代唯一断层主舞 杨博文四代唯一断层主舞",
       "enabled": true,
       "purpose": "danmuku",
-      "weight": 2
+      "weight": 5
     },
     {
       "id": "danmuku-0127",
@@ -9675,7 +9684,7 @@
       "text": "杨博文不愧是杨博文",
       "enabled": true,
       "purpose": "danmuku",
-      "weight": 2
+      "weight": 5
     },
     {
       "id": "danmuku-0131",
@@ -9684,7 +9693,7 @@
       "text": "💓杨博文💓杨博文💓杨博文💓杨博文💓杨博文💓杨博文💓杨博文💓杨博文💓杨博文💓杨博文💓杨博文💓杨博文",
       "enabled": true,
       "purpose": "danmuku",
-      "weight": 2
+      "weight": 5
     },
     {
       "id": "danmuku-0132",
@@ -9702,7 +9711,7 @@
       "text": "💓杨博文顺顺利利💓杨博文顺顺利利💓杨博文顺顺利利💓",
       "enabled": true,
       "purpose": "danmuku",
-      "weight": 2
+      "weight": 5
     },
     {
       "id": "danmuku-0134",
@@ -9729,7 +9738,7 @@
       "text": "没人不喜欢杨博文💓没人不喜欢杨博文💓没人不喜欢杨博文💓没人不喜欢杨博文",
       "enabled": true,
       "purpose": "danmuku",
-      "weight": 2
+      "weight": 5
     },
     {
       "id": "danmuku-0137",
@@ -9747,7 +9756,7 @@
       "text": "💓杨博文 四舞一💓杨博文 四舞一💓杨博文 四舞一💓杨博文 四舞一",
       "enabled": true,
       "purpose": "danmuku",
-      "weight": 2
+      "weight": 5
     },
     {
       "id": "danmuku-0139",
@@ -9756,7 +9765,7 @@
       "text": "💓杨博文 唯一C位队长💓杨博文 唯一C位队长💓杨博文 唯一C位队长",
       "enabled": true,
       "purpose": "danmuku",
-      "weight": 2
+      "weight": 5
     },
     {
       "id": "danmuku-0140",
@@ -9765,7 +9774,7 @@
       "text": "💓杨博文四代唯一断层主舞💓杨博文四代唯一断层主舞💓杨博文四代唯一断层主舞💓杨博文四代唯一断层主舞💓杨博文四代唯一断层主舞",
       "enabled": true,
       "purpose": "danmuku",
-      "weight": 2
+      "weight": 5
     },
     {
       "id": "danmuku-0141",
@@ -9774,7 +9783,7 @@
       "text": "爱上杨博文人之常情💓爱上杨博文人之常情💓爱上杨博文人之常情💓",
       "enabled": true,
       "purpose": "danmuku",
-      "weight": 2
+      "weight": 5
     },
     {
       "id": "danmuku-0142",
@@ -9783,7 +9792,7 @@
       "text": "小羊真棒💓💓💓小羊真棒💓💓💓小羊真棒💓💓💓小羊真棒💓💓💓小羊真棒💓💓💓小羊真棒💓💓💓小羊真棒💓💓",
       "enabled": true,
       "purpose": "danmuku",
-      "weight": 2
+      "weight": 5
     },
     {
       "id": "danmuku-0143",
@@ -9801,13 +9810,22 @@
       "text": "🌷🌷🌷杨博文🌷🌷🌷杨博文🌷🌷🌷杨博文🌷🌷🌷杨博文🌷🌷🌷杨博文🌷🌷🌷杨博文🌷🌷🌷杨博文🌷🌷🌷杨博文🌷🌷🌷",
       "enabled": true,
       "purpose": "danmuku",
-      "weight": 2
+      "weight": 5
     },
     {
       "id": "danmuku-0145",
       "category": "通用",
       "tags": [],
-      "text": "剑眉星眸💖🩷 清新俊逸💖🩷 挺鼻朱唇💖🩷 英俊潇洒💖🩷 风流倜傥💖🩷 明眸皓齿💖🩷 古雕刻画💖🩷 貌若潘安💖🩷 探扇浅笑💖🩷 俊美无铸💖🩷 风华绝代💖🩷 英俊脸庞💖🩷 面如冠玉💖🩷 才貌双全💖🩷",
+      "text": "剑眉星眸杨博文💖🩷 清新俊逸杨博文💖🩷 挺鼻朱唇杨博文💖🩷 英俊潇洒杨博文💖🩷 风流倜傥杨博文💖🩷 明眸皓齿杨博文💖🩷 古雕刻画杨博文💖🩷 貌若潘安杨博文💖🩷 探扇浅笑杨博文💖🩷 俊美无铸杨博文💖🩷 风华绝代杨博文💖🩷 英俊脸庞杨博文💖🩷 面如冠玉杨博文💖🩷 才貌双全杨博文💖🩷",
+      "enabled": true,
+      "purpose": "danmuku",
+      "weight": 3
+    },
+    {
+      "id": "danmuku-0146",
+      "category": "通用",
+      "tags": [],
+      "text": "杨博文好帅(踢走其他小狗)(跑到面前摇尾巴)(又有其他小狗来)(和其他小狗打架)(踢走其他小狗)(满身伤痕摇尾巴)",
       "enabled": true,
       "purpose": "danmuku",
       "weight": 3
