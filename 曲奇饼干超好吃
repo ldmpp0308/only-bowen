@@ -1,6 +1,6 @@
 {
   "version": "30.2.1",
-  "exportedAt": "2026-07-06T08:20:01.555Z",
+  "exportedAt": "2026-07-08T03:27:00.236Z",
   "accounts": [
     {
       "name": "账号1",
@@ -28,12 +28,6 @@
     },
     {
       "name": "账号5",
-      "cookie": "buvid3=0A4E8A1A-30C2-001A-8935-D8D11350218348763infoc; b_nut=1778830248; _uuid=BB8936AF-5C93-61096-4D61-81136159109B949274infoc; buvid_fp=0a793e4f69b04f7666c4a0e228933429; buvid4=0B934960-76B8-DD2C-061D-2A575555CB4249819-026051515-E5aFTOWXfCsCmLgXgzL6FQ%3D%3D; rpdid=|(J|~uu)umk~0J'u~~))J|kl|; theme-tip-show=SHOWED; theme-avatar-tip-show=SHOWED; theme-switch-show=SHOWED; CURRENT_QUALITY=16; CURRENT_FNVAL=4048; bmg_af_switch=1; bmg_src_def_domain=i0.hdslb.com; bmg_af_sc={\"none\":{\"on\":1,\"def\":\"i0.hdslb.com\"},\"sgp\":{\"on\":1,\"def\":\"i0-sgp.hdslb.com\"}}; bili_ticket=eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3ODM1Nzk5MDgsImlhdCI6MTc4MzMyMDY0OCwicGx0IjotMX0.6nzGjfypnPg5nMcSLtmxSuYbf9bKd_F2FSnkK-VH2dk; bili_ticket_expires=1783579848; bp_t_offset_3690992997763367=1221842247805304832; sid=8n7vk4p9; X-BILI-SEC-TOKEN=3,eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJxIjoiZUdOV01OTDZzeWRKUWFTME5zUG1JbU1DRGIyck9aTksiLCJyIjoiNTA1MWNlM2NiNjlmYzM0Njg1MGUzNjJjYjk0MGFhN2U0ZDIwNDZhZWQ1ZjNhZTUyNGU0MTdkODViMTQ3MGM5MCIsImlwIjoiMTUzLjEyMi4xNzIuMTQ4IiwiZnAiOiIwOWI1ODE3ZDA4YzE0N2ZiNDM5OWYwNmQ4MDhiYTE2NSIsInZlcml0eSI6MCwidHlwZSI6IjEiLCJleHAiOjE3ODMzMjQ0MTEsImlhdCI6MTc4MzMyMDgxMX0.KgrN32KK9wL2q9-GqH4qiKccV8o7V-kABQXg2_J1MSk; b_lsid=56DB884D_19F36345817",
-      "nickname": "游客",
-      "uid": ""
-    },
-    {
-      "name": "账号6",
       "cookie": "SESSDATA=793d7106%2C1798877869%2Cc4653%2A72CjC-CJ5OFQuuYhmIfcDJul1mQOL6BzEdxUYq7ga0fLiYryIP0xXcaBNaJa0bgB_izF8SVkxuVFhHdS00OUthRU10aVo3MjZ3OENUa0dYaDJoTHpTS1FqbUdDZ05IeDREekdEUXo4OFVwMlBvTWpRR0RJYkppcnFQbW41S0g3VFhEU05mbzI2Z2RRIIEC; buvid3=0A4E8A1A-30C2-001A-8935-D8D11350218348763infoc; b_nut=1778830248; _uuid=BB8936AF-5C93-61096-4D61-81136159109B949274infoc; buvid_fp=0a793e4f69b04f7666c4a0e228933429; buvid4=0B934960-76B8-DD2C-061D-2A575555CB4249819-026051515-E5aFTOWXfCsCmLgXgzL6FQ%3D%3D; rpdid=|(J|~uu)umk~0J'u~~))J|kl|; theme-tip-show=SHOWED; theme-avatar-tip-show=SHOWED; theme-switch-show=SHOWED; CURRENT_QUALITY=16; CURRENT_FNVAL=4048; bili_ticket=eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3ODM1Nzk5MDgsImlhdCI6MTc4MzMyMDY0OCwicGx0IjotMX0.6nzGjfypnPg5nMcSLtmxSuYbf9bKd_F2FSnkK-VH2dk; bili_ticket_expires=1783579848; bp_t_offset_3690992997763367=1221842247805304832; X-BILI-SEC-TOKEN=3,eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJxIjoiMkhRck1mSUZOTUhsTzVqb3I5N0RMV2dKRXR0NkxGZFoiLCJyIjoiNWJkNzU1OTBkNjU3NTA4YjNmM2ViNDhkMTBlYTMzN2NhZDhmYTE2MDlkMWI2ZjVhOGM3OTg4ZDYyNjg2OGYxOCIsImlwIjoiMTUzLjEyMi4xNzIuMTQ4IiwiZnAiOiIwOWI1ODE3ZDA4YzE0N2ZiNDM5OWYwNmQ4MDhiYTE2NSIsInZlcml0eSI6MSwidHlwZSI6IjEiLCJleHAiOjE3ODMzMjQ0OTksImlhdCI6MTc4MzMyMDg5NH0.lDpE5058H6CFUzCDT1F39dM1zAlq_igYnaK5FXpsa-w; bmg_af_switch=1; bmg_src_def_domain=i0.hdslb.com; bmg_af_sc={\"none\":{\"on\":1,\"def\":\"i0.hdslb.com\"},\"sgp\":{\"on\":1,\"def\":\"i0-sgp.hdslb.com\"}}; bili_jct=d51908ea5c9c0908bc46d463f9fcacca; DedeUserID=1441744493; DedeUserID__ckMd5=0100a3229272dc6d; sid=7pan3ueu; b_lsid=CEC2F79E_19F3682EF64",
       "nickname": "ntt0819",
       "uid": "1441744493"
