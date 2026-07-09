@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-06T10:45:20.080Z",
+  "updatedAt": "2026-07-09T08:16:53.859Z",
   "templates": [
     {
       "id": "comment-0001",
@@ -11320,6 +11320,69 @@
       "category": "Q音专用",
       "tags": [],
       "text": "杨博文",
+      "enabled": true,
+      "purpose": "reply",
+      "weight": 2
+    },
+    {
+      "id": "reply-0155",
+      "category": "Q音专用",
+      "tags": [],
+      "text": "🍧突围破局💓“全世界陪我出发〞【@TF家族-杨博文YBW】🫧突围ᴵᴺᴳ 🍥主题曲考核第一☝️ 唱跳兼备💗💗双向出彩✨沉淀出绝佳舞台质感🌟",
+      "enabled": true,
+      "purpose": "reply",
+      "weight": 2
+    },
+    {
+      "id": "reply-0156",
+      "category": "Q音专用",
+      "tags": [],
+      "text": "🎧感受心跳💓的变化🔁𝗚𝗼\n@TF家族-杨博文YBW 💗《全世界陪我出发》💘清亮嗓音 💖💖搭配超绝舞蹈 💓💓氛围感牢牢拿捏",
+      "enabled": true,
+      "purpose": "reply",
+      "weight": 2
+    },
+    {
+      "id": "reply-0157",
+      "category": "Q音专用",
+      "tags": [],
+      "text": "📣 全世界🌏陪我出发🚶【@TF家族-杨博文YBW】💓💓心跳随旋律加速💕【🎀考核第一】舞台游刃有余🌷少年前路尽是鲜花🍧",
+      "enabled": true,
+      "purpose": "reply",
+      "weight": 2
+    },
+    {
+      "id": "reply-0158",
+      "category": "Q音专用",
+      "tags": [],
+      "text": "🎤 321 let′s go 拉开舞台💓突围考核第一🎊【@TF家族-杨博文YBW】💖💖清亮声线ꔛ‬‬‪🌷唱尽少年锋芒 ✨",
+      "enabled": true,
+      "purpose": "reply",
+      "weight": 2
+    },
+    {
+      "id": "reply-0159",
+      "category": "Q音专用",
+      "tags": [],
+      "text": "🌷其实不用放心上🍬也能够感受到光芒💕💕@TF家族-杨博文YBW🍥突围榜首驾到🌷主题曲拿捏🔖每句演唱都直击人心💘💘",
+      "enabled": true,
+      "purpose": "reply",
+      "weight": 2
+    },
+    {
+      "id": "reply-0160",
+      "category": "Q音专用",
+      "tags": [],
+      "text": "Time‘s up🎧 【全世界陪我出发】绝对实力无视压力👊突围尽展TOP风采💕💕耀眼瞩目吸引全场 💖新歌亮嗓扣人心弦 @TF家族-杨博文YBW  心跳震动的瞬间全力奔赴🌸🌷迎接繁花盛开尽向他",
+      "enabled": true,
+      "purpose": "reply",
+      "weight": 2
+    },
+    {
+      "id": "reply-0161",
+      "category": "Q音专用",
+      "tags": [],
+      "text": "🛎️即刻出发感受光芒✨全世界陪@TF家族-杨博文YBW 登顶出发💞考核第一&核心C位💓💓天赋与努力并驱💖 主题曲活力迸发【精彩无限 】【掌控全场】🎉🎉🎉",
       "enabled": true,
       "purpose": "reply",
       "weight": 2
