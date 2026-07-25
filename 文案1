@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-09T08:16:53.859Z",
+  "updatedAt": "2026-07-25T14:08:01.882Z",
   "templates": [
     {
       "id": "comment-0001",
@@ -9939,6 +9939,69 @@
       "weight": 3
     },
     {
+      "id": "danmuku-0147",
+      "category": "通用",
+      "tags": [],
+      "text": "杨博文标准答案💓💓💓杨博文标准答案💓💓💓杨博文标准答案💓💓💓杨博文标准答案💓💓💓杨博文标准答案💓💓💓杨博文标准答案💓💓💓杨博文标准答案💓💓💓",
+      "enabled": true,
+      "purpose": "danmuku",
+      "weight": 3
+    },
+    {
+      "id": "danmuku-0148",
+      "category": "通用",
+      "tags": [],
+      "text": "幸福的指针是北北💗幸福的指针是北北💗幸福的指针是北北💗幸福的指针是北北💗幸福的指针是北北💗幸福的指针是北北💗幸福的指针是北北💗幸福的指针是北北💗幸福的指针是北北💗幸福的指针是北北💗幸福的指针是北北💗",
+      "enabled": true,
+      "purpose": "danmuku",
+      "weight": 3
+    },
+    {
+      "id": "danmuku-0149",
+      "category": "通用",
+      "tags": [],
+      "text": "心动的波纹 是博文^o^心动的波纹 是博文^o^心动的波纹 是博文^o^心动的波纹 是博文^o^心动的波纹 是博文^o^心动的波纹 是博文^o^心动的波纹 是博文^o^心动的波纹 是博文^o^",
+      "enabled": true,
+      "purpose": "danmuku",
+      "weight": 3
+    },
+    {
+      "id": "danmuku-0150",
+      "category": "通用",
+      "tags": [],
+      "text": "杨博文是最棒的小孩💗杨博文是最棒的小孩💗杨博文是最棒的小孩💗杨博文是最棒的小孩💗杨博文是最棒的小孩💗杨博文是最棒的小孩💗杨博文是最棒的小孩💗杨博文是最棒的小孩💗杨博文是最棒的小孩💗杨博文是最棒的小孩💗",
+      "enabled": true,
+      "purpose": "danmuku",
+      "weight": 3
+    },
+    {
+      "id": "danmuku-0151",
+      "category": "通用",
+      "tags": [],
+      "text": "杨博文最棒杨博文最棒杨博文最棒杨博文最棒杨博文最棒杨博文最棒杨博文最棒杨博文最棒杨博文最棒杨博文最棒杨博文最棒杨博文最棒杨博文最棒杨博文最棒杨博文最棒",
+      "enabled": true,
+      "purpose": "danmuku",
+      "weight": 3
+    },
+    {
+      "id": "danmuku-0152",
+      "category": "通用",
+      "tags": [],
+      "text": "杨博文你走的每一步都算数杨博文你走的每一步都算数杨博文你走的每一步都算数杨博文你走的每一步都算数杨博文你走的每一步都算数",
+      "enabled": true,
+      "purpose": "danmuku",
+      "weight": 3
+    },
+    {
+      "id": "danmuku-0153",
+      "category": "通用",
+      "tags": [],
+      "text": "杨博文标准答案杨博文标准答案杨博文标准答案杨博文标准答案杨博文标准答案",
+      "enabled": true,
+      "purpose": "danmuku",
+      "weight": 3
+    },
+    {
       "id": "reply-0001",
       "category": "通用",
       "tags": [],
@@ -11355,7 +11418,7 @@
       "id": "reply-0158",
       "category": "Q音专用",
       "tags": [],
-      "text": "🎤 321 let′s go 拉开舞台💓突围考核第一🎊【@TF家族-杨博文YBW】💖💖清亮声线ꔛ‬‬‪🌷唱尽少年锋芒 ✨",
+      "text": "🎤 321 let′s go 拉开舞台💓突围考核第一🎊【@TF家族-杨博文YBW】💖💖清亮声线唱尽少年锋芒 ✨",
       "enabled": true,
       "purpose": "reply",
       "weight": 2
