@@ -1,6 +1,6 @@
 {
   "version": "30.2.1",
-  "exportedAt": "2026-07-27T11:44:37.635Z",
+  "exportedAt": "2026-07-27T12:04:14.434Z",
   "accounts": [
     {
       "name": "账号1",
@@ -126,6 +126,13 @@
       "cookie": "SESSDATA=f8de298e%2C1800702310%2C52e9c%2A72CjA0ZjWiyeh857lhjq3tUQU_VnJN4AkUV8wD1GCXDw4-EKyl3U1PipqSaz2XUwTnQN0SVkNpcnU1ZTE0VW11THc2WXNBa0Q0cm1TTm5aa3BzdFlURml3TmNfVDBRdHFTVVctYTE5OVl2TVpEVy16RE9pRmhKV0xsemZFN0pxRWY4N295a1ZkcTlRIIEC; buvid3=9618628F-BBB5-8DA2-C5F2-96C7FA74838081614infoc; b_nut=1784443481; _uuid=29107C1D3-10685-4344-F81E-1036ECF5F4B2D81797infoc; CURRENT_FNVAL=4048; CURRENT_QUALITY=0; buvid_fp=aef52d60ef3da201ee809bdc38de7996; bmg_af_switch=1; bmg_src_def_domain=i1.hdslb.com; bmg_af_sc={\"none\":{\"on\":1,\"def\":\"i1.hdslb.com\"},\"sgp\":{\"on\":1,\"def\":\"i1-sgp.hdslb.com\"}}; buvid4=7C77763B-F93E-62BB-34CC-701899DE735C83048-026071914-hNrZ3WpEgp80Khvf/FFPeA%3D%3D; rpdid=|(JlkJkl|mku0J'u~)RRRJR)R; DedeUserID=3707035241679577; DedeUserID__ckMd5=0f6e7d7f3e27d2dd; theme-tip-show=SHOWED; theme-avatar-tip-show=SHOWED; bili_ticket=eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3ODUyNDQ5MTIsImlhdCI6MTc4NDk4NTY1MiwicGx0IjotMX0.h9KRJDuc5wqbXUHQN7rjVt0JlDWqU8VkuBk8pUqHUA8; bili_ticket_expires=1785244852; bp_t_offset_3707035241679577=1228995472887119872; bili_jct=6acf1730e5bb8bed9a291952a848afdf; sid=6xi9cerc; b_lsid=C131B52E_19FA363EF7B",
       "nickname": "波纹是我妹妹",
       "uid": "3707035241679577",
+      "source": "cloud"
+    },
+    {
+      "name": "账号19",
+      "cookie": "SESSDATA=fed0f815%2C1800705702%2C00c4b%2A72CjBYkneVcRuOVnFNyKMsP5tbDwkwRSPKMSe0oXjXU6FkHMVTyeQbssxwE1J213188fgSVnZyZUxZcTVaaWplTGFmUnd0ZmJaLWhMX1pKVGlVSmRFajU1U3RqWm1mUXhrTnJJZnJpTS1nU01sV2ZUUlVscDJyYXJYSUFoRUZHOEJwdnFoUE01M3J3IIEC; buvid3=E3554D56-A52F-4577-98A2-BC3B6B376B4908400infoc; b_nut=1785153508; _uuid=219AA1CF-7619-7BC8-E127-585D65B8951D09193infoc; CURRENT_FNVAL=4048; CURRENT_QUALITY=0; buvid_fp=83bc2d45867b7579221f139658ffc26f; bmg_af_switch=1; bili_ticket=eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3ODU0MTI3MDksImlhdCI6MTc4NTE1MzQ0OSwicGx0IjotMX0.dgV94LtLOc0RZoMiJQi9x39_30EF2WZJtov4EA_x8xU; bili_ticket_expires=1785412649; rpdid=|(JY)Rumlkm~0J'u~)lulJlu|; buvid4=3AB87898-D132-6CBF-9B18-AB03D8523D1309667-026072719-evHXmw1NFHsi6cFil+aXXQ%3D%3D; bmg_src_def_domain=i1.hdslb.com; bmg_af_sc={\"none\":{\"on\":1,\"def\":\"i1.hdslb.com\"},\"sgp\":{\"on\":1,\"def\":\"i2-sgp.hdslb.com\"}}; bili_jct=c3f6dbd3920119835541a03d22429fa4; DedeUserID=3690996221086057; DedeUserID__ckMd5=df35937ec2463f50; theme-tip-show=SHOWED; theme-avatar-tip-show=SHOWED; sid=5oy7bykl; b_lsid=523B0234_19FA37479BE",
+      "nickname": "妈粉来自Slytherin",
+      "uid": "3690996221086057",
       "source": "local"
     }
   ]
