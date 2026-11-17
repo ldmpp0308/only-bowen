@@ -1,6 +1,6 @@
 {
   "version": "30.2.1",
-  "exportedAt": "2026-11-17T02:58:24.822Z",
+  "exportedAt": "2026-11-17T03:00:51.751Z",
   "accounts": [
     {
       "name": "账号1",
@@ -78,6 +78,13 @@
       "nickname": "球球6107",
       "uid": "3707034578979433",
       "source": "cloud"
+    },
+    {
+      "name": "账号12",
+      "cookie": "buvid3=C0B40CA1-754D-FFCE-8975-95A6406EDCF937356infoc; b_nut=1786426737; buvid_fp=8c2ce12c0d5662762aea0f45ebc9f7e0; _uuid=510BE6613-54E8-41A10-10726-7EBD526AA11F42213infoc; rpdid=|(J|~uu)u))k0J'u~)YRkY~Rk; buvid4=7F1C48B2-13CD-DC9E-7EDE-416EC9B3B8F337763-026081113-Q4YpmemvK/wYtuzmTfgCmA%3D%3D; CURRENT_QUALITY=16; CURRENT_FNVAL=4048; user_site=CN; bmg_af_switch=1; bmg_src_def_domain=i1.hdslb.com; bmg_af_sc={\"none\":{\"on\":1,\"def\":\"i1.hdslb.com\"},\"sgp\":{\"on\":1,\"def\":\"i1-sgp.hdslb.com\"}}; bili_ticket=eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3OTUxNDM2MTMsImlhdCI6MTc5NDg4NDM1MywicGx0IjotMX0.YY-psRnXlRexVBWnIXVaoT4Iu2TDprheXuiYvXS8LqE; bili_ticket_expires=1795143553; DATE=1793940599279; umcr9xle=U2FsdGVkX1+3al/cWH+6z6Y5M8xQED03E2gikdoSzwIpnOBb73ZoPe7rPYC1850X; crystal=U2FsdGVkX19NWrVyqfKpo247VUi8d9pXpTTypzfFNI2KjStJ/I8tAnuKA5iWV/KU3LK5wLwL85IPlDbEZHQHBCsRpewIIMM4bBNNYSYclnb1F57FY00kyGMpEyiNd8zfhNZuGbqGmR+RLWs66APtKTvtXuazIf1rv0S7th6SYeQrWBSNp6AnwY/oXA4KEdIiINC+7oL2MFDEGthrN1Ha80YTDvOOIjQk9tV0BvtMTun8Xlf0cvmhvUCql74YOJD0; vmce9xdq=U2FsdGVkX1+2t0H+Sx7SQpDzxVpZRpOWfJJFvl4ro5DA1e9PKsvBV3YDGARUCQ4149BuXIk7I7CMTm4ALJxbTCXqKkUqu0evfIZvc2e7s6rSdR3cBiKZJ4zTHB0Fjn1GEyJ6psVgc0DYcHWVI5y77lgf4W42c4nk9VUBNXx4vRo=; assva6=U2FsdGVkX19qBAL6TbiQWGP3n6DyXAxiKdaq21lIPFI=; assva5=U2FsdGVkX1+gWBXeU/BrYyio1h3rLPGqtLloLfVsiMh3gStJPb2as1FHon0PBxtQDs4GCOCltjivJRQzdPycsA==; cmci9xde=U2FsdGVkX1+XJxhxOTLkpQjsJnmCHAdry/VyJvWL9UA3ezhP2M2mDcWuHRhENeotpZDBDpnxVb2uq4qboKCYNg==; pmck9xge=U2FsdGVkX1/UJln0RfPt1GrJwRdkezyUgbiroQtaNgY=; X-BILI-SEC-TOKEN=3,eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJxIjoiNzFhZ3BNQ3E0OHFMUGpGbzNoNHB0WXJJWUp5Uk5RekgiLCJyIjoiMjRjMjc3MmFmZTZiNjhlNDAwYWJhMDhhMDkyZTcwNDYwYmM3Y2VkZmRiZjI5NmFlZmMyYmE5YjcyZGQ5NGZiOSIsImlwIjoiMTU2LjIyNC43Ny4yNDkiLCJmcCI6Ijc4MTAwYTJiNTViZjI5OTM4ZWJhNmEyNzk2MDhiMGMyIiwidmVyaXR5IjoxLCJ0eXBlIjoiMSIsImV4cCI6MTc5NDg4ODAyNiwiaWF0IjoxNzk0ODg0NDI0fQ.EYCxFLA2GKen30sjoZ4M8RA_iLGbCYdNZS_VY2Wd-Ik; sid=59axk75u; b_lsid=017AB62B_1A1E772F903",
+      "nickname": "游客",
+      "uid": "",
+      "source": "local"
     }
   ]
 }
